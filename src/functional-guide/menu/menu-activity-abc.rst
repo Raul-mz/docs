@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Activity (ABC)
+* Activity (ABC)
 
 Menu Type
 ---------

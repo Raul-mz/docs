@@ -30,8 +30,8 @@ Fields
 =================  ===========================================  =========  ==============  ========  =========  =========
 Name               Description                                  Displayed  Query Criteria  Order By  Read Only  Mandatory
 =================  ===========================================  =========  ==============  ========  =========  =========
-Bank Type          Bank Type define a type of bank or behavior  No         Yes             No        Yes        Yes      
 Bank Account       Account at the Bank                          No         Yes             No        Yes        Yes      
+Bank Type          Bank Type define a type of bank or behavior  No         Yes             No        Yes        Yes      
 Payment            Payment identifier                           Yes        No              No        Yes        No       
 Document No        Document sequence number of the document     Yes        No              No        Yes        No       
 Transaction Date   Transaction Date                             Yes        Yes             Yes       Yes        No       

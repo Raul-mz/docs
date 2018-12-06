@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Replication Setup
+* Replication Setup
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Collaboration
-
-   * Web Broadcast Server
+* Web Broadcast Server
 
 Menu Type
 ---------

@@ -89,6 +89,9 @@ Calculation Basis
 \ **Help**\ 
  \ *The Calculation Basis indicates the basis to be used for the commission calculation.*\ 
 
+Commission Type ID
+------------------
+
 Frequency Type
 --------------
 \ **Description**\ 
@@ -110,8 +113,8 @@ Paid totally
 \ **Help**\ 
  \ *The document has been paid totally, i.e. there is nothing left to pay.*\ 
 
-IsDaysDueFromPaymentTerm
-------------------------
+Days due from Payment Term
+--------------------------
 
 Allow RMA
 ---------

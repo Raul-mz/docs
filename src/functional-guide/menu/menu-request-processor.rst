@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Request Processor
+* Request Processor
 
 Menu Type
 ---------

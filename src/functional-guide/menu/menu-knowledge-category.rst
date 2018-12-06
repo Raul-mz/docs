@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Knowledge Base
-
-   * Knowledge Category
+* Knowledge Category
 
 Menu Type
 ---------

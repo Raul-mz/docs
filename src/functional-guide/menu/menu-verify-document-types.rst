@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Verify Document Types
+* Verify Document Types
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Cash Journal
-
-  * Cash Closing
+* Cash Closing
 
 Menu Type
 ---------

@@ -480,6 +480,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Resource Assignment
 -------------------
 \ **Description**\ 
@@ -551,17 +570,22 @@ Quantity Invoiced
 \ **Description**\ 
  \ *The quantity invoiced*\ 
 
-Purchase Order
---------------
+Sales Order
+-----------
 \ **Description**\ 
- \ *Purchase Order*\ 
+ \ *Sales Order*\ 
 \ **Help**\ 
- \ *The Purchase Order is a control document.  The Purchase Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
+ \ *The Order is a control document.  The  Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
 
 Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
+
+Manufacturing Order
+-------------------
+\ **Description**\ 
+ \ *Manufacturing Order*\ 
 
 Project Issue
 -------------
@@ -944,6 +968,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Committed Amount
 ----------------
 \ **Description**\ 
@@ -951,24 +994,29 @@ Committed Amount
 \ **Help**\ 
  \ *The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.*\ 
 
-Generate Order
---------------
+Generate Sales Order
+--------------------
 \ **Description**\ 
- \ *Generate Order from Project Phase*\ 
+ \ *Generate Sales Order from Project*\ 
 \ **Help**\ 
- \ *The Generate Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.*\ 
+ \ *The Generate Sales Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.*\ 
+
+Sales Order
+-----------
+\ **Description**\ 
+ \ *Sales Order*\ 
+\ **Help**\ 
+ \ *The Order is a control document.  The  Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
 
 Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
-\ **Help**\ 
- \ *The Purchase Order is a control document.  The Purchase Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
 
-Purchase Order
---------------
+Manufacturing Order
+-------------------
 \ **Description**\ 
- \ *Purchase Order*\ 
+ \ *Manufacturing Order*\ 
 
 Phase Line
 ----------
@@ -1052,6 +1100,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Resource Assignment
 -------------------
 \ **Description**\ 
@@ -1123,17 +1190,22 @@ Quantity Invoiced
 \ **Description**\ 
  \ *The quantity invoiced*\ 
 
-Purchase Order
---------------
+Sales Order
+-----------
 \ **Description**\ 
- \ *Purchase Order*\ 
+ \ *Sales Order*\ 
 \ **Help**\ 
- \ *The Purchase Order is a control document.  The Purchase Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
+ \ *The Order is a control document.  The  Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
 
 Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
+
+Manufacturing Order
+-------------------
+\ **Description**\ 
+ \ *Manufacturing Order*\ 
 
 Project Issue
 -------------
@@ -1458,6 +1530,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Committed Amount
 ----------------
 \ **Description**\ 
@@ -1465,10 +1556,29 @@ Committed Amount
 \ **Help**\ 
  \ *The commitment amount is independent from the planned amount. You would use the planned amount for your realistic estimation, which might be higher or lower than the commitment amount.*\ 
 
+Generate Sales Order
+--------------------
+\ **Description**\ 
+ \ *Generate Sales Order from Project*\ 
+\ **Help**\ 
+ \ *The Generate Sales Order process will generate a new Order document based on the project phase or tasks. A price list and warehouse/service point must be defined on the project.  If a product is defined on phase level, the Phase information is used as the basis for the Order (milestone invoicing) - otherwise the individual tasks.*\ 
+
+Sales Order
+-----------
+\ **Description**\ 
+ \ *Sales Order*\ 
+\ **Help**\ 
+ \ *The Sales Order is a control document.  The  Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
+
 Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
+
+Manufacturing Order
+-------------------
+\ **Description**\ 
+ \ *Manufacturing Order*\ 
 
 Task Request
 ------------
@@ -2071,6 +2181,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Resource Assignment
 -------------------
 \ **Description**\ 
@@ -2142,17 +2271,22 @@ Quantity Invoiced
 \ **Description**\ 
  \ *The quantity invoiced*\ 
 
-Purchase Order
---------------
+Sales Order
+-----------
 \ **Description**\ 
- \ *Purchase Order*\ 
+ \ *Sales Order*\ 
 \ **Help**\ 
- \ *The Purchase Order is a control document.  The Purchase Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
+ \ *The Sales Order is a control document.  The Purchase Order is complete when the quantity ordered is the same as the quantity shipped and invoiced.  When you close an order, unshipped (backordered) quantities are cancelled.*\ 
 
 Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
+
+Manufacturing Order
+-------------------
+\ **Description**\ 
+ \ *Manufacturing Order*\ 
 
 Project Issue
 -------------

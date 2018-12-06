@@ -52,3 +52,4 @@ Forms
     form-trial-balance-drillable-report
     form-pos
     form-barcode-scanner-products
+    form-bank-statement-match

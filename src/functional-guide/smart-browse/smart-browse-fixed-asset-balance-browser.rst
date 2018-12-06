@@ -22,8 +22,8 @@ Fields
 ========================  =================================================================  =========  ==============  ========  =========  =========
 Name                      Description                                                        Displayed  Query Criteria  Order By  Read Only  Mandatory
 ========================  =================================================================  =========  ==============  ========  =========  =========
-Asset Depreciation Date   Date of last depreciation                                          No         Yes             No        Yes        No       
 Asset Disposal Date       Date when the asset is/was disposed                                No         Yes             No        Yes        No       
+Asset Depreciation Date   Date of last depreciation                                          No         Yes             No        Yes        No       
 Fixed Asset               Fixed Asset used internally or by customers                        Yes        Yes             No        Yes        No       
 Search Key                Search key for the record in the format required - must be unique  Yes        Yes             No        Yes        No       
 Inventory No                                                                                 Yes        Yes             No        Yes        No       

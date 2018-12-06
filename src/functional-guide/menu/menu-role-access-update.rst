@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Role Access Update
+* Role Access Update
 
 Menu Type
 ---------

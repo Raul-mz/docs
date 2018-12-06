@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Generate PO from Project
+* Generate PO from Project
 
 Menu Type
 ---------

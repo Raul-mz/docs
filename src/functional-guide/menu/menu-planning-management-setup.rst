@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Planning Management Setup
+* Planning Management Setup
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Processing
-
-  * Build Depreciation Forecast
+* Build Depreciation Forecast
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Fact Balances
+* Accounting Fact Balances
 
 Menu Type
 ---------

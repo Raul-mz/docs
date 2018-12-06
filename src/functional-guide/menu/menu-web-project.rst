@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Collaboration
-
-   * Web Project
+* Web Project
 
 Menu Type
 ---------

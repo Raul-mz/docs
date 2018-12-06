@@ -27,13 +27,13 @@ Fields
 Name                           Description                                                                                                  Displayed  Query Criteria  Order By  Read Only  Mandatory
 =============================  ===========================================================================================================  =========  ==============  ========  =========  =========
 City                           City                                                                                                         No         Yes             No        Yes        No       
+ZIP                            Postal code                                                                                                  No         Yes             No        Yes        No       
 Freight Cost Rule              Method for charging Freight                                                                                  No         Yes             No        Yes        No       
 Freight Category               Category of the Freight                                                                                      No         Yes             No        Yes        No       
 Delivery Via                   How the order will be delivered                                                                              No         Yes             No        Yes        No       
 Delivery Rule                  Defines the timing of Delivery                                                                               No         Yes             No        Yes        No       
 Region                         Name of the Region                                                                                           No         Yes             No        Yes        No       
 City                           Identifies a City                                                                                            No         Yes             No        Yes        No       
-ZIP                            Postal code                                                                                                  No         Yes             No        Yes        No       
 Region                         Identifies a geographical Region                                                                             No         Yes             No        Yes        No       
 Product Class                  Class of a Product                                                                                           No         Yes             No        Yes        No       
 Product Classification         Classification of a Product                                                                                  No         Yes             No        Yes        No       

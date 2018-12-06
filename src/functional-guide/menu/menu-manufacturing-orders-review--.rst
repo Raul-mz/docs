@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Discreet Manufacturing
-
-   * Manufacturing Orders Review  
+* Manufacturing Orders Review  
 
 Menu Type
 ---------

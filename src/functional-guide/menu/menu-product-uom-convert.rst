@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Product UOM Convert
+* Product UOM Convert
 
 Menu Type
 ---------

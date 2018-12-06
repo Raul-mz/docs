@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Session Audit
+* Session Audit
 
 Menu Type
 ---------

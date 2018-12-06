@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Client Rules
-
-  * Remuneration
+* Remuneration
 
 Menu Type
 ---------

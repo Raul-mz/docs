@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * POS Key Generate
+* POS Key Generate
 
 Menu Type
 ---------

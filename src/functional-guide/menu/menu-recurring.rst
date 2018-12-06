@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Recurring
+* Recurring
 
 Menu Type
 ---------

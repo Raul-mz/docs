@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * CRP
-
-   * Capacity Requirement Planning Setup
+* Capacity Requirement Planning Setup
 
 Menu Type
 ---------

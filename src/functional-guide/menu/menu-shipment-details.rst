@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Shipments
-
-  * Shipment Details
+* Shipment Details
 
 Menu Type
 ---------

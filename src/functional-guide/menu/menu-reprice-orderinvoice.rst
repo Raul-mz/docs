@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * RePrice Order/Invoice
+* RePrice Order/Invoice
 
 Menu Type
 ---------

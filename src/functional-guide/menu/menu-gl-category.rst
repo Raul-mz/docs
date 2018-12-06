@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * GL Category
+* GL Category
 
 Menu Type
 ---------

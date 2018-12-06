@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Invoices
-
-  * Print Invoices
+* Print Invoices
 
 Menu Type
 ---------

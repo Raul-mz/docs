@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Customer Service
-
-  * Registration
+* Registration
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Fixed Asset Split Browser
+* Fixed Asset Split Browser
 
 Menu Type
 ---------

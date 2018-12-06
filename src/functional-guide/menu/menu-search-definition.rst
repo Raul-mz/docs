@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Search Definition
+* Search Definition
 
 Menu Type
 ---------

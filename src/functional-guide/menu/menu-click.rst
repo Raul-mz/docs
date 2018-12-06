@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Web
-
-  * Click
+* Click
 
 Menu Type
 ---------

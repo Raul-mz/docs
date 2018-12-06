@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Workflow
-
-   * Workflow Responsible
+* Workflow Responsible
 
 Menu Type
 ---------

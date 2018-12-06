@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Market Place
-
-   * Bid Topic
+* Bid Topic
 
 Menu Type
 ---------

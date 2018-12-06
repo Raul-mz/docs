@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * EDI
-
-   * EDI Transaction
+* EDI Transaction
 
 Menu Type
 ---------

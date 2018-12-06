@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Change Audit
+* Change Audit
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Request Standard Response
+* Request Standard Response
 
 Menu Type
 ---------

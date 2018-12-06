@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Inventory Move
+* Import Inventory Move
 
 Menu Type
 ---------

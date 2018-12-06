@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Invoice Schedule
+* Invoice Schedule
 
 Menu Type
 ---------

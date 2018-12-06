@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Accounting Dimensions
+* Accounting Dimensions
 
 Menu Type
 ---------

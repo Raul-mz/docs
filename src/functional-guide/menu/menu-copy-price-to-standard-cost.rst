@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Copy Price to Standard Cost
+* Copy Price to Standard Cost
 
 Menu Type
 ---------

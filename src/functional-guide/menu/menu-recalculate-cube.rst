@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Recalculate Cube
+* Recalculate Cube
 
 Menu Type
 ---------

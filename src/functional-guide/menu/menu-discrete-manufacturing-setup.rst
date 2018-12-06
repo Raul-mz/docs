@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Discreet Manufacturing
-
-   * Discrete Manufacturing Setup
+* Discrete Manufacturing Setup
 
 Menu Type
 ---------

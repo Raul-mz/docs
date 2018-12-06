@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Generate Surrogate Keys
+* Generate Surrogate Keys
 
 Menu Type
 ---------

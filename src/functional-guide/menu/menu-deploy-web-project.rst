@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Collaboration
-
-   * Deploy Web Project
+* Deploy Web Project
 
 Menu Type
 ---------

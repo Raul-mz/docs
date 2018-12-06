@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Employee Setup
-
-   * Employee Type
+* Employee Type
 
 Menu Type
 ---------

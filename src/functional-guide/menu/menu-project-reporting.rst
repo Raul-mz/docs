@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Reporting
+* Project Reporting
 
 Menu Type
 ---------

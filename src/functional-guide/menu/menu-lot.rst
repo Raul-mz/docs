@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Product Attributes
-
-  * Lot
+* Lot
 
 Menu Type
 ---------

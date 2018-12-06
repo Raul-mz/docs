@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Trial Balance
+* Trial Balance
 
 Menu Type
 ---------

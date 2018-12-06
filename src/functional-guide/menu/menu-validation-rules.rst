@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Validation Rules
+* Validation Rules
 
 Menu Type
 ---------

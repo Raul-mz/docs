@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * UnAllocated Invoices
+* UnAllocated Invoices
 
 Menu Type
 ---------

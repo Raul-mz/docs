@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Invoice Transactions (Acct)
+* Invoice Transactions (Acct)
 
 Menu Type
 ---------

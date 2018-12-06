@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Update Accounting Balance
+* Update Accounting Balance
 
 Menu Type
 ---------

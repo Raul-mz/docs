@@ -1423,17 +1423,17 @@ Disposal Revenue
 Disposal Revenue Acct
 ---------------------
 
-Disposal Loss Acct
-------------------
-
 Loss on Disposal
 ----------------
 
-Revaluation Cost Offset for Current Year
-----------------------------------------
+Disposal Loss Acct
+------------------
 
 Reval Cost Offset Acct
 ----------------------
+
+Revaluation Cost Offset for Current Year
+----------------------------------------
 
 Revaluation Cost Offset for Prior Year
 --------------------------------------

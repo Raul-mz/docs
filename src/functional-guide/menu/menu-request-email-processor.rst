@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Request EMail Processor
+* Request EMail Processor
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Sequence Check
+* Sequence Check
 
 Menu Type
 ---------

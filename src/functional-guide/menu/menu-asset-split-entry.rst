@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Asset Split Entry
+* Asset Split Entry
 
 Menu Type
 ---------

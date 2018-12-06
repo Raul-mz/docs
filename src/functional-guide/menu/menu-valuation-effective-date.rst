@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Costing
-
-  * Valuation Effective Date
+* Valuation Effective Date
 
 Menu Type
 ---------

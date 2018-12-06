@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Replication Data
-
-   * Export Processor
+* Export Processor
 
 Menu Type
 ---------

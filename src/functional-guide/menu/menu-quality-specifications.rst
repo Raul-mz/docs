@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Quality Management
-
-  * Quality Specifications
+* Quality Specifications
 
 Menu Type
 ---------

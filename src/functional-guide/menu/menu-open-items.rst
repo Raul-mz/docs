@@ -13,8 +13,6 @@ Menu Path
 
 * Open Items
 
- * Open Items
-
 Menu Type
 ---------
 \ **Report**\ 

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Report & Process
+* Report & Process
 
 Menu Type
 ---------

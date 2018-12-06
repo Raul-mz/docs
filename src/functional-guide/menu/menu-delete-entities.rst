@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Delete Entities
+* Delete Entities
 
 Menu Type
 ---------

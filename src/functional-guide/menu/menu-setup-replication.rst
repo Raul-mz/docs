@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Replication Data
-
-   * Setup Replication
+* Setup Replication
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Asset Addition
+* Asset Addition
 
 Menu Type
 ---------

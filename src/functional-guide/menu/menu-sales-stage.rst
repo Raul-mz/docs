@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Sales Stage
+* Sales Stage
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Currency Rate
+* Import Currency Rate
 
 Menu Type
 ---------

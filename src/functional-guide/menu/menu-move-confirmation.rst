@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Move Confirmation
+* Move Confirmation
 
 Menu Type
 ---------

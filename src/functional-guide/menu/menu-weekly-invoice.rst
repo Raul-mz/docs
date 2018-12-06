@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Weekly Invoice
+* Weekly Invoice
 
 Menu Type
 ---------

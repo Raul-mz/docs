@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Asset Group Defaults
+* Asset Group Defaults
 
 Menu Type
 ---------

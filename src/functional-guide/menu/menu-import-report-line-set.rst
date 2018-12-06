@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Report Line Set
+* Import Report Line Set
 
 Menu Type
 ---------

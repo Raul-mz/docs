@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Invoice Tax
+* Invoice Tax
 
 Menu Type
 ---------

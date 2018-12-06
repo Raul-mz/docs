@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Invoice Transactions (Doc)
+* Invoice Transactions (Doc)
 
 Menu Type
 ---------

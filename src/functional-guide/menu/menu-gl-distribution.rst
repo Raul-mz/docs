@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * GL Distribution
+* GL Distribution
 
 Menu Type
 ---------

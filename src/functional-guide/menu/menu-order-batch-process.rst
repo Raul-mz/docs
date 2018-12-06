@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Order Batch Process
+* Order Batch Process
 
 Menu Type
 ---------

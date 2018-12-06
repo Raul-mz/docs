@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Margin (Work Order)
+* Project Margin (Work Order)
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Workflow
-
-   * Workflow Editor
+* Workflow Editor
 
 Menu Type
 ---------

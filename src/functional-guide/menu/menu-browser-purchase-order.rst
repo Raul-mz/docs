@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Browser Purchase Order
+* Browser Purchase Order
 
 Menu Type
 ---------

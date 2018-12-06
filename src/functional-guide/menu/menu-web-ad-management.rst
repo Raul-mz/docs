@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Collaboration
-
-   * Web Ad Management
+* Web Ad Management
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Info Window
+* Info Window
 
 Menu Type
 ---------

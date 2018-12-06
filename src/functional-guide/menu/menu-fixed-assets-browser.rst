@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Fixed Assets Browser
+* Fixed Assets Browser
 
 Menu Type
 ---------

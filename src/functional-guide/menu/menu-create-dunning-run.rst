@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Create Dunning Run
+* Create Dunning Run
 
 Menu Type
 ---------

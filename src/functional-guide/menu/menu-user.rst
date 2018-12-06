@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * User
+* User
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Employee Setup
-
-   * Grade
+* Grade
 
 Menu Type
 ---------

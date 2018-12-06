@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Planned Manufacturing Order
+* Planned Manufacturing Order
 
 Menu Type
 ---------

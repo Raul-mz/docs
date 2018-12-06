@@ -120,18 +120,8 @@ If not selected, the user cannot create a new Record.  This is automatically dis
 Fields
 ======
 
-To Asset
---------
-
-From Asset
-----------
-
-Organization
-------------
-\ **Description**\ 
- \ *Organizational entity within client*\ 
-\ **Help**\ 
- \ *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*\ 
+Depreciation Forecast
+---------------------
 
 Client
 ------
@@ -139,6 +129,9 @@ Client
  \ *Client/Tenant for this installation.*\ 
 \ **Help**\ 
  \ *A Client is a company or a legal entity. You cannot share data between Clients. Tenant is a synonym for Client.*\ 
+
+To Asset
+--------
 
 Posting Type
 ------------
@@ -150,6 +143,13 @@ Posting Type
 Build Depreciation Forecast File
 --------------------------------
 
+Processed
+---------
+\ **Description**\ 
+ \ *The document has been processed*\ 
+\ **Help**\ 
+ \ *The Processed checkbox indicates that a document has been processed.*\ 
+
 Active
 ------
 \ **Description**\ 
@@ -160,12 +160,12 @@ There are two reasons for de-activating and not deleting records:
 (1) The system requires the record for audit purposes.
 (2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are invoices for this partner record existing. You de-activate the Business Partner and prevent that this record is used for future entries.*\ 
 
-Depreciation Forecast
----------------------
+From Asset
+----------
 
-Processed
----------
+Organization
+------------
 \ **Description**\ 
- \ *The document has been processed*\ 
+ \ *Organizational entity within client*\ 
 \ **Help**\ 
- \ *The Processed checkbox indicates that a document has been processed.*\ 
+ \ *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*\ 

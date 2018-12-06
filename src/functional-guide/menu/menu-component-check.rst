@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Discreet Manufacturing
-
-   * Component Check
+* Component Check
 
 Menu Type
 ---------

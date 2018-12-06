@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Product Planning
+* Import Product Planning
 
 Menu Type
 ---------

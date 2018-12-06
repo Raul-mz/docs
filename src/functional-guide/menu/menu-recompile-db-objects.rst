@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Recompile DB Objects
+* Recompile DB Objects
 
 Menu Type
 ---------

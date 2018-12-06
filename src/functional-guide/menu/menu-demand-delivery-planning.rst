@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Outbound Operations
-
-  * Demand delivery planning
+* Demand delivery planning
 
 Menu Type
 ---------

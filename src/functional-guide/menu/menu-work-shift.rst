@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Employee Setup
-
-   * Work Shift
+* Work Shift
 
 Menu Type
 ---------

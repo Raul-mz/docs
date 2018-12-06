@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Browser Global Payroll Concept
+* Browser Global Payroll Concept
 
 Menu Type
 ---------

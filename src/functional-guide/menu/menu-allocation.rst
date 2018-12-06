@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Allocation
+* Allocation
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset
+* Asset
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Manufacturing Management Setup
+* Manufacturing Management Setup
 
 Menu Type
 ---------

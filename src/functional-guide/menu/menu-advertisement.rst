@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Web
-
-  * Advertisement
+* Advertisement
 
 Menu Type
 ---------

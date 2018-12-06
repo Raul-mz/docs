@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Revaluation
-
-  * Asset Change Account
+* Asset Change Account
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Returns
-
- * Customer RMA
+* Customer RMA
 
 Menu Type
 ---------

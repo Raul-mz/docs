@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Web POS
-
-   * Web POS Terminal
+* Web POS Terminal
 
 Menu Type
 ---------

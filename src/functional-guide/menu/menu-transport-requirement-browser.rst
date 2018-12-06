@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport Requirement Browser
+* Transport Requirement Browser
 
 Menu Type
 ---------

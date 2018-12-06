@@ -521,6 +521,14 @@ Process
 \ **Help**\ 
  \ *The Process field identifies a unique Process or Report in the system.*\ 
 
+Image
+-----
+\ **Description**\ 
+ \ *Image or Icon*\ 
+\ **Help**\ 
+ \ *Images and Icon can be used to display supported graphic formats (gif, jpg, png).
+You can either load the image (in the database) or point to a graphic via a URI (i.e. it can point to a resource, http address)*\ 
+
 Chart
 -----
 

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Manufacturing Workflow
-
-   * Manufacturing Workflows
+* Manufacturing Workflows
 
 Menu Type
 ---------

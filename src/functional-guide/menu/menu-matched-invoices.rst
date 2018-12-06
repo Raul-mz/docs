@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Matched Invoices
+* Matched Invoices
 
 Menu Type
 ---------

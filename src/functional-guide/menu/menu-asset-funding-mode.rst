@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Asset Funding Mode
+* Asset Funding Mode
 
 Menu Type
 ---------

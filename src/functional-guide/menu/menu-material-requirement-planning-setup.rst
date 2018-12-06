@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Material Requirement Planning Setup
+* Material Requirement Planning Setup
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Partner Relation
+* Partner Relation
 
 Menu Type
 ---------

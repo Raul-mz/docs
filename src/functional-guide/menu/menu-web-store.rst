@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Client Rules
-
-  * Web Store
+* Web Store
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * UnPosted Documents
+* UnPosted Documents
 
 Menu Type
 ---------

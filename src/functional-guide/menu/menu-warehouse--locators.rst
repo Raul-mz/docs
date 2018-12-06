@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Warehouse & Locators
+* Warehouse & Locators
 
 Menu Type
 ---------

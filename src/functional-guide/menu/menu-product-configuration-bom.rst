@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Bill of Material & Formulas
-
-   * Product Configuration BOM
+* Product Configuration BOM
 
 Menu Type
 ---------

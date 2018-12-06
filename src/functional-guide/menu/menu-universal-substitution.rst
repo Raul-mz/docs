@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Universal substitution
+* Universal substitution
 
 Menu Type
 ---------

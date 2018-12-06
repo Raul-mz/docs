@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Find (indirect use)
+* Find (indirect use)
 
 Menu Type
 ---------

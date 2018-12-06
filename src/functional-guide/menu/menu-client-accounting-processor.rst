@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Client Accounting Processor
+* Client Accounting Processor
 
 Menu Type
 ---------

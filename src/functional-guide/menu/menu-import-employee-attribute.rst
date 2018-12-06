@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Employee Attribute
+* Import Employee Attribute
 
 Menu Type
 ---------

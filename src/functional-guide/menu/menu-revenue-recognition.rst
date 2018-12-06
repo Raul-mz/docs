@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Revenue Recognition
+* Revenue Recognition
 
 Menu Type
 ---------

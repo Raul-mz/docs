@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Setup
-
-  * Depreciation First Year Conventions 
+* Depreciation First Year Conventions 
 
 Menu Type
 ---------

@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Immediate Bank Transfer
+* Immediate Bank Transfer
 
 Menu Type
 ---------

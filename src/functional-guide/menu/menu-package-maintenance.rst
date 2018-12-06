@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Application Packaging
-
-  * Package Maintenance
+* Package Maintenance
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Recruitment Management
-
-   * Job Openings Browser
+* Job Openings Browser
 
 Menu Type
 ---------

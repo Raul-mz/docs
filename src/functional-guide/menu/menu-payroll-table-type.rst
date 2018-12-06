@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Table Type
+* Payroll Table Type
 
 Menu Type
 ---------

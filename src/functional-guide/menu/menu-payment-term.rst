@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Payment Term
+* Payment Term
 
 Menu Type
 ---------

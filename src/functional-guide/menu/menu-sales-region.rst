@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales and Marketing
-
-  * Sales Region
+* Sales Region
 
 Menu Type
 ---------

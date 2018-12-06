@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Cash Flow Management
-
- * Review CashFlow
+* Review CashFlow
 
 Menu Type
 ---------

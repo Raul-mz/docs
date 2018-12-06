@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * Generate Immediate Invoice
+* Generate Immediate Invoice
 
 Menu Type
 ---------

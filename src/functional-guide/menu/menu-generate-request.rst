@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Generate Request
+* Generate Request
 
 Menu Type
 ---------

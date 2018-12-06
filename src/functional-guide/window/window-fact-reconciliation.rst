@@ -23,6 +23,13 @@ Reconciliation
 Fields
 ======
 
+Account Date
+------------
+\ **Description**\ 
+ \ *Accounting Date*\ 
+\ **Help**\ 
+ \ *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*\ 
+
 Account
 -------
 \ **Description**\ 
@@ -34,13 +41,6 @@ Accounted Amount
 ----------------
 \ **Description**\ 
  \ *Amount Balance in Currency of Accounting Schema*\ 
-
-Account Date
-------------
-\ **Description**\ 
- \ *Accounting Date*\ 
-\ **Help**\ 
- \ *The Accounting Date indicates the date to be used on the General Ledger account entries generated from this document. It is also used for any currency conversion.*\ 
 
 Business Partner
 ----------------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Synchronize Doc Translation
+* Synchronize Doc Translation
 
 Menu Type
 ---------

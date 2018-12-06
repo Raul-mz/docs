@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Element
+* Element
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * DRP
-
-   * Calculate Distribution Plan
+* Calculate Distribution Plan
 
 Menu Type
 ---------

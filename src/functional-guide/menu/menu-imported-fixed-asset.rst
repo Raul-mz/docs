@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Imported Fixed Asset
+* Imported Fixed Asset
 
 Menu Type
 ---------

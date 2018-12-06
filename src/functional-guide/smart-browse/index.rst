@@ -57,12 +57,13 @@ Smart Browsers
     smart-browse-userbrowser
     smart-browse-depositfromcash
     smart-browse-projecttaskbrowser
+    smart-browse-create-po-from-requisition-lines
     smart-browse-project-request-browser
     smart-browse-fixed-asset-split-browser
-    smart-browse-fixed-asset-balance-browser
     smart-browse-request-browser
-    smart-browse-sb_payrollcreateinvoicebpartner
     smart-browse-sb_createproductentriesinpricelist
     smart-browse-fixed-assets-browser
-    smart-browse-create-po-from-requisition-lines
+    smart-browse-paymentcreatefrominvoice
+    smart-browse-fixed-asset-balance-browser
+    smart-browse-generate-invoice-from-payroll-process
     smart-browse-browser-requisition

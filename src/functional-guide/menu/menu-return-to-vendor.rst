@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Returns
-
- * Return to Vendor
+* Return to Vendor
 
 Menu Type
 ---------

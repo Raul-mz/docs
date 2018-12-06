@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * System Issue Report
+* System Issue Report
 
 Menu Type
 ---------

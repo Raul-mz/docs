@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Asset Transfer Entry
+* Asset Transfer Entry
 
 Menu Type
 ---------

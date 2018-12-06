@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * My Profile
+* My Profile
 
 Menu Type
 ---------

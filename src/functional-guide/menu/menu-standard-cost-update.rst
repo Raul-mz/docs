@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Costing
-
-  * Standard Cost Update
+* Standard Cost Update
 
 Menu Type
 ---------

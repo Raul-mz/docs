@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Material Receipt Distribution Order
+* Material Receipt Distribution Order
 
 Menu Type
 ---------

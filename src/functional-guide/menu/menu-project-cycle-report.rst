@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Cycle Report
+* Project Cycle Report
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Invoice
+* Import Invoice
 
 Menu Type
 ---------

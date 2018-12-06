@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Calculate Low Level
+* Calculate Low Level
 
 Menu Type
 ---------

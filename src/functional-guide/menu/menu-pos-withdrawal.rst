@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * POS Withdrawal
+* POS Withdrawal
 
 Menu Type
 ---------

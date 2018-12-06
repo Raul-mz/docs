@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Form
+* Form
 
 Menu Type
 ---------

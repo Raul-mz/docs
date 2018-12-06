@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Invoices
-
-  * Generate Invoice From Order Lines
+* Generate Invoice From Order Lines
 
 Menu Type
 ---------

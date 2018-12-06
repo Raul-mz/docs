@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Payment
+* Payment
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Web POS
-
-   * Web POS Properties
+* Web POS Properties
 
 Menu Type
 ---------

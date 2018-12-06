@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport Unit Type
+* Transport Unit Type
 
 Menu Type
 ---------

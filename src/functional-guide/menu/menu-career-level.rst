@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Recruitment Management
-
-   * Career Level
+* Career Level
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Enable Native Sequence
+* Enable Native Sequence
 
 Menu Type
 ---------

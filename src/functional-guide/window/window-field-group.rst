@@ -65,9 +65,6 @@ There are two reasons for de-activating and not deleting records:
 (1) The system requires the record for audit purposes.
 (2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are invoices for this partner record existing. You de-activate the Business Partner and prevent that this record is used for future entries.*\ 
 
-Field Group Type
-----------------
-
 Entity Type
 -----------
 \ **Description**\ 
@@ -76,6 +73,9 @@ Entity Type
  \ *The Entity Types "Dictionary", "Adempiere" and "Application" might be automatically synchronized and customizations deleted or overwritten.  
 
 For customizations, copy the entity and select "User"!*\ 
+
+Field Group Type
+----------------
 
 Collapsed By Default
 --------------------

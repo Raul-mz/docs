@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Replenish Plan Requisition Report
+* Replenish Plan Requisition Report
 
 Menu Type
 ---------

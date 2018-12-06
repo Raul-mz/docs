@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Internal Use Inventory
+* Internal Use Inventory
 
 Menu Type
 ---------

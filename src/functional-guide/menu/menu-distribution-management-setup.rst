@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Distribution Management Setup
+* Distribution Management Setup
 
 Menu Type
 ---------

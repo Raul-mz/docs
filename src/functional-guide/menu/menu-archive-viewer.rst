@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Archive Viewer
+* Archive Viewer
 
 Menu Type
 ---------

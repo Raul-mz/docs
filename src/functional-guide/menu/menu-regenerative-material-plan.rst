@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Regenerative Material Plan
+* Regenerative Material Plan
 
 Menu Type
 ---------

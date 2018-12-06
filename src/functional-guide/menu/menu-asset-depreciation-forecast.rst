@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Processing
-
-  * Asset Depreciation Forecast
+* Asset Depreciation Forecast
 
 Menu Type
 ---------

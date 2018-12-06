@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Dunning Run
+* Dunning Run
 
 Menu Type
 ---------

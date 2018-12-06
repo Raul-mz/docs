@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * UnLink Business Partner Org
+* UnLink Business Partner Org
 
 Menu Type
 ---------

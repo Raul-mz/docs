@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Unreconciled accounting facts
+* Unreconciled accounting facts
 
 Menu Type
 ---------

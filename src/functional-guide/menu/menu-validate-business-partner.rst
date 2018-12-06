@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Validate Business Partner
+* Validate Business Partner
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Quality Test
+* Quality Test
 
 Menu Type
 ---------

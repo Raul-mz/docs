@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Reset Allocation
+* Reset Allocation
 
 Menu Type
 ---------

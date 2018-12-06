@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Shipments
-
-  * Generate Shipments & Invoices (manual)
+* Generate Shipments & Invoices (manual)
 
 Menu Type
 ---------

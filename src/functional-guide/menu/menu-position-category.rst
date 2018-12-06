@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Position Category
+* Position Category
 
 Menu Type
 ---------

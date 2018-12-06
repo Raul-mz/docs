@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Web POS
-
-   * Setup Web POS
+* Setup Web POS
 
 Menu Type
 ---------

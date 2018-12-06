@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Payment Batch
+* Payment Batch
 
 Menu Type
 ---------

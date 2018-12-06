@@ -22,11 +22,11 @@ Fields
 =============================  =================================================  =========  ==============  ========  =========  =========
 Name                           Description                                        Displayed  Query Criteria  Order By  Read Only  Mandatory
 =============================  =================================================  =========  ==============  ========  =========  =========
-RMA                            Return Material Authorization                      No         Yes             No        Yes        Yes      
-Invoice                        Invoice Identifier                                 No         Yes             No        Yes        Yes      
-Order                          Order                                              No         Yes             No        Yes        Yes      
-Create From Type                                                                  No         Yes             No        Yes        Yes      
 Only from same Warehouse                                                          No         Yes             No        Yes        No       
+Invoice                        Invoice Identifier                                 No         Yes             No        Yes        Yes      
+Create From Type                                                                  No         Yes             No        Yes        Yes      
+RMA                            Return Material Authorization                      No         Yes             No        Yes        Yes      
+Order                          Order                                              No         Yes             No        Yes        Yes      
 In Out Create From Identifier                                                     Yes        No              No        Yes        No       
 Activity                       Business Activity                                  No         Yes             No        Yes        No       
 Campaign                       Marketing Campaign                                 No         Yes             No        Yes        No       

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Product Attributes
-
-  * Attribute Search
+* Attribute Search
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Generate Movement Manual Old
+* Generate Movement Manual Old
 
 Menu Type
 ---------

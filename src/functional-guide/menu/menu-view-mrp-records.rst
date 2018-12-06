@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * View MRP Records
+* View MRP Records
 
 Menu Type
 ---------

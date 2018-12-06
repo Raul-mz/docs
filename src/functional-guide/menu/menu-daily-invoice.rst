@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Daily Invoice
+* Daily Invoice
 
 Menu Type
 ---------

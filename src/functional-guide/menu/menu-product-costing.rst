@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Product Costing
+* Product Costing
 
 Menu Type
 ---------

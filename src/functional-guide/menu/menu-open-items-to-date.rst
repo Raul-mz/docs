@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Open Items To Date
+* Open Items To Date
 
 Menu Type
 ---------

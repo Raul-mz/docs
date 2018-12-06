@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Forecast Management
-
-   * Sales History
+* Sales History
 
 Menu Type
 ---------

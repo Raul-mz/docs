@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales and Marketing
-
-  * Sales Setup
+* Sales Setup
 
 Menu Type
 ---------

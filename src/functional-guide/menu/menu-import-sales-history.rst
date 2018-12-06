@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Sales History
+* Import Sales History
 
 Menu Type
 ---------

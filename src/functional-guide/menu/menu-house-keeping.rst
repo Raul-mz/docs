@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * House Keeping
+* House Keeping
 
 Menu Type
 ---------

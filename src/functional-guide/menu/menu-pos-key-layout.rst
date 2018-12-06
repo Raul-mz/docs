@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * POS Key Layout
+* POS Key Layout
 
 Menu Type
 ---------

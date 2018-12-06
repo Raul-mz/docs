@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Receivables Write-Off
+* Receivables Write-Off
 
 Menu Type
 ---------

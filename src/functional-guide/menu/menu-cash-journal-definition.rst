@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Cash Journal Definition
+* Cash Journal Definition
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Freight Category
+* Freight Category
 
 Menu Type
 ---------

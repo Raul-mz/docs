@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Disposed Asset Entry
+* Disposed Asset Entry
 
 Menu Type
 ---------

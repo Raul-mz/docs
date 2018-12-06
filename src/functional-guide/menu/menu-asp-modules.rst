@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Client Rules
-
-  * ASP Modules
+* ASP Modules
 
 Menu Type
 ---------

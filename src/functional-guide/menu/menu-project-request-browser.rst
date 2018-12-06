@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Request Browser
+* Project Request Browser
 
 Menu Type
 ---------

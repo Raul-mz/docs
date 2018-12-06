@@ -14,11 +14,8 @@ Menu
     menu-template
     menu-edi-transaction
     menu-edi-definition
-    menu-generate-request
     menu-custom-attribute
     menu-project-status-summary
-    menu-project-old
-    menu-payment-details-cash
     menu-replication-setup
     menu-initial-client-setup
     menu-post-depreciation-entry
@@ -27,28 +24,32 @@ Menu
     menu-asset-revaluation-index
     menu-replication
     menu-sales
-    menu-browser-user
     menu-find-indirect-use
     menu-material-transactions-indirect-use
-    menu-deposit-from-cash
-    menu-project-task-browser
-    menu-project-request-browser
-    menu-request-browser
-    menu-create-dunning-run
+    menu-daily-invoice
+    menu-performance-indicators
+    menu-product-attribute-grid
+    menu-workflow-editor
+    menu-workflow-activities
+    menu-tree-maintenance
+    menu-merge-entities
+    menu-generate-shipments-manual
+    menu-payment-allocation
+    menu-generate-charges
+    menu-matching-po-receipt-invoice
+    menu-payroll-action-notice
+    menu-manufacturing-workflow-editor
+    menu-pos
+    menu-import-file-loader
     menu-setup-replication
     menu-project-setup-and-use
     menu-language-setup
     menu-java-version
-    menu-standard-request-type
     menu-update-accounting-balance
     menu-migration-scripts
     menu-prepare-migration-scripts
     menu-setup-web-pos
     menu-update-role-menu
-    menu-fixed-assets-browser
-    menu-payroll-process-report
-    menu-context-info
-    menu-auction-buyer
     menu-cost-workflow--process-details
     menu-generate-movement-manual-old
     menu-material-receipt-distribution-order-old
@@ -57,14 +58,14 @@ Menu
     menu-asset-parent-report
     menu-depreciation-first-year-conventions-
     menu-depreciation-calculation-method
-    menu-auction-seller
-    menu-package
-    menu-distribution-list
-    menu-form
-    menu-error-message
-    menu-import-loader-format
+    menu-reapply-customizations
+    menu-rebuild-index
     menu-sql-process
     menu-archive-viewer
+    menu-payment-printexport
+    menu-bom--formula-info
+    menu-product-configuration-bom
+    menu-mrp-info
     menu-initial-client-setup-review
     menu-accounting-setup
     menu-business-partner-setup
@@ -72,11 +73,11 @@ Menu
     menu-product-setup
     menu-sales-setup
     menu-tax-setup
+    menu-request-setup
     menu-database-transfer
     menu-database-export
     menu-parts-and-boms
     menu-validate-bom-flags
-    menu-payroll-create-invoice
     menu-planned-order-approval-deprecated
     menu-sales-campaign
     menu-depreciation-period-spread-type
@@ -99,47 +100,140 @@ Menu
     menu-asset-convention-report
     menu-asset-group-defaults
     menu-manufacturing-order-cost
-    menu-fixed-asset-balance-browser
-    menu-payroll-process-report
-    menu-fixed-asset-split-browser
     menu-web-pos-role-menu
-    menu-browser-requisition
-    menu-approval-material-requisition-process
-    menu-project-processor
+    menu-distribution-run-orders
+    menu-clean-up-garden-world
     menu-crp-info
     menu-resource-load-view
     menu-order-receipt--issue
+    menu-generate-shipments--invoices-manual
     menu-capacity-requirement-planning-setup
     menu-distribution-resource-planning-setup
-    menu-fixed-asset-split
+    menu-distribution-management-setup
+    menu-mrp-notice
+    menu-discrete-manufacturing-setup
     menu-web-pos-properties
     menu-web-pos-blacklistcheque
-    menu-create-po-from-requisition-lines
-    menu-import-budget
-    menu-gl-journal
-    menu-bom-change-notice
-    menu-attribute-set-instance
-    menu-performance-benchmark
-    menu-performance-ratio
     menu-web-pos-terminal
     menu-web-pos-menu
-    menu-view-chat
-    menu-expenses-to-be-invoiced
-    menu-sales-region
-    menu-element
-    menu-table-and-column
-    menu-project-group
+    menu-create-doc-type-to-manufacturing
+    menu-create-element
+    menu-workflow-cost-roll-up
+    menu-bill-of-material--formula-cost-roll-up
+    menu-product-costing
+    menu-copy-price-to-standard-cost
+    menu-payroll-create-invoice
+    menu-the-bank-statement-report
     menu-payment-selection-manual
-    menu-project-class
-    menu-project-category
-    menu-cash-closing
+    menu-copy-cost-type-to-other-cost-type
+    menu-generate-immediate-invoice
+    menu-reverse-the-sales-transaction
+    menu-create-order-based-on-another
+    menu-demand-delivery-planning
+    menu-outbound-order-delivery-schedule
+    menu-replenish-plan-report
+    menu-cost-bom-multi-level-review
+    menu-replenish-plan-production-report
+    menu-replenish-plan-requisition-report
+    menu-replenish-plan-generate-report
+    menu-generate-manufacturing-order-cost
+    menu-stocktake
+    menu-trial-balance-drillable-report
+    menu-print-table-format
+    menu-export-format
+    menu-order-detail
+    menu-material-reference
+    menu-create-ap-expense-invoices
+    menu-open-requisitions
+    menu-unlink-business-partner-org
+    menu-create-sales-orders-from-expense
+    menu-business-partner-open
+    menu-product-cost
+    menu-product-cost-summary
+    menu-product-cost-detail
+    menu-create-po-from-requisition
+    menu-sequence-check
+    menu-material-receipt-details
+    menu-shipment-details
+    menu-print-dunning-letters
+    menu-create-costing-records
+    menu-forecast-report-by-period
+    menu-order-transactions
+    menu-storage-per-product
+    menu-pos-key-generate
+    menu-manufacturing-orders-review--
+    menu-component-check
+    menu-recalculate-cube
+    menu-verify-bom-structure
+    menu-universal-substitution
+    menu-replenish-report-incl.-production
+    menu-generate-invoices-from-shipments
+    menu-order-batch-process
+    menu-transport-license-type
+    menu-commission-run-summary
+    menu-open-items-to-date
+    menu-generate-surrogate-keys
+    menu-forecast-simulation-result
+    menu-generate-shipments-from-outbound-order
+    menu-mrp-action-messages
+    menu-approval-distribution-order
+    menu-approval-manufacturing-order
+    menu-approval-material-requisition
+    menu-mrp-demands-browse
+    menu-mrp-supplies-browse
+    menu-scheduling-of-the-demands
+    menu-scheduling-of-the-supplies
+    menu-activities-scheduling
+    menu-release-outbound-order-to-pick
+    menu-activities-progress-monitor
+    menu-activities-progress-control
+    menu-job-openings-browser
+    menu-my-applicants-browser
+    menu-history-payroll-movement
+    menu-generate-movement-manual
+    menu-material-receipt-distribution-order
+    menu-generate-shipment-from-order-lines
+    menu-generate-outbound-order-based-on-sales-orders
+    menu-generate-outbound-order-based-on-demands
+    menu-pos-withdrawal
+    menu-browser-ar-invoice
+    menu-browser-ap-invoice
+    menu-pos-bank-statement-close
+    menu-browser-sales-order
+    menu-browser-purchase-order
+    menu-generate-payment-selection-from-invoice
+    menu-browser-global-payroll-concept
+    menu-transport-requirement-browser
+    menu-transport-license-browser
+    menu-driver-browser
+    menu-vehicle-browser
+    menu-process-orders
+    menu-generate-invoice-from-order-lines
+    menu-generate-shipments-from-demands
+    menu-generate-request
+    menu-payment-details-cash
+    menu-project-old
+    menu-create-dunning-run
+    menu-browser-user
+    menu-deposit-from-cash
+    menu-project-task-browser
+    menu-project-request-browser
+    menu-request-browser
+    menu-payroll-create-invoice
+    menu-fixed-assets-browser
+    menu-fixed-asset-split-browser
+    menu-generate-payment-from-invoice-customer
+    menu-fixed-asset-balance-browser
+    menu-payroll-movement-report
+    menu-browser-requisition
+    menu-standard-request-type
     menu-project
-    menu-project-status-category
-    menu-project-category-task
-    menu-cash-journal-definition
-    menu-cash
+    menu-payroll-process-report
+    menu-generate-manufacturing-order-from-project
+    menu-approval-material-requisition-process
+    menu-create-po-from-requisition-lines
+    menu-bank-statement-match
     menu-inventory-move
-    menu-mrp-notice
     menu-remuneration
     menu-order-source
     menu-shift-group
@@ -150,32 +244,25 @@ Menu
     menu-inboundoutbound-definition
     menu-expense-report
     menu-knowledge-base
-    menu-import-project
-    menu-project-member-type
-    menu-matched-invoices
-    menu-rma-type
-    menu-position
-    menu-position-category
-    menu-notice
-    menu-email-configuration
-    menu-express-receipt
-    menu-production-order-batch
-    menu-resource-type
-    menu-task
-    menu-currency
-    menu-currency-rate
-    menu-calendar-year-and-period
-    menu-account-element
-    menu-stocktake
-    menu-trial-balance-drillable-report
-    menu-account-combination
-    menu-unit-of-measure
-    menu-location
-    menu-country-region-and-city
-    menu-business-partner
-    menu-accounting-schema
-    menu-test
-    menu-attachment
+    menu-payment-selection
+    menu-payroll-process
+    menu-bill-of-materials--formula-
+    menu-business-partner-info
+    menu-accounting-processor
+    menu-organization-type
+    menu-auction-buyer
+    menu-auction-seller
+    menu-package
+    menu-distribution-list
+    menu-form
+    menu-error-message
+    menu-import-loader-format
+    menu-request-all
+    menu-import-business-partner
+    menu-change-audit
+    menu-import-account
+    menu-tax-group
+    menu-tax-definition
     menu-tax-rate-parent
     menu-vendor-rma
     menu-return-to-vendor
@@ -186,21 +273,51 @@ Menu
     menu-import-price-list
     menu-search-definition
     menu-withholding
+    menu-matched-invoices
+    menu-rma-type
+    menu-position
+    menu-position-category
+    menu-notice
+    menu-email-configuration
+    menu-express-receipt
+    menu-production-order-batch
+    menu-field-definition
+    menu-send-payroll-receipt-by-email
     menu-planned-manufacturing-order
     menu-document-status-indicator
     menu-import-employee-data
     menu-replenish-plan-run
+    menu-import-budget
+    menu-gl-journal
+    menu-bom-change-notice
+    menu-attribute-set-instance
+    menu-performance-benchmark
+    menu-performance-ratio
+    menu-view-chat
+    menu-expenses-to-be-invoiced
+    menu-sales-region
+    menu-element
+    menu-table-and-column
     menu-reference
     menu-window-tab--field
     menu-validation-rules
     menu-message
     menu-menu
     menu-work-group
+    menu-degree
+    menu-race
+    menu-language
+    menu-user
+    menu-client
+    menu-organization
+    menu-role
+    menu-document-sequence
+    menu-workflow
     menu-accounting-fact-details
     menu-tree
+    menu-bank
     menu-dunning
     menu-asp-modules
-    menu-print-table-format
     menu-withholding-1099
     menu-charge
     menu-report--process
@@ -209,6 +326,20 @@ Menu
     menu-matched-purchase-orders
     menu-expense-type
     menu-resource
+    menu-resource-type
+    menu-task
+    menu-currency
+    menu-currency-rate
+    menu-calendar-year-and-period
+    menu-account-element
+    menu-account-combination
+    menu-unit-of-measure
+    menu-location
+    menu-country-region-and-city
+    menu-business-partner
+    menu-accounting-schema
+    menu-test
+    menu-attachment
     menu-preference
     menu-gl-category
     menu-activity-abc
@@ -227,7 +358,6 @@ Menu
     menu-gl-budget
     menu-marketing-channel
     menu-request-type
-    menu-training
     menu-interest-area
     menu-request-status
     menu-request-standard-response
@@ -251,7 +381,6 @@ Menu
     menu-budget-control
     menu-gl-fund-alpha
     menu-counter-document
-    menu-contact
     menu-product-costs
     menu-cost-element
     menu-web-store
@@ -266,6 +395,7 @@ Menu
     menu-import-payment
     menu-click
     menu-import-order
+    menu-print-font
     menu-invoice-payment-schedule
     menu-import-gl-journal
     menu-alert
@@ -282,7 +412,6 @@ Menu
     menu-greeting
     menu-request-processor
     menu-report-view
-    menu-export-format
     menu-material-receipt
     menu-purchase-order
     menu-invoice-vendor
@@ -292,6 +421,7 @@ Menu
     menu-project-type
     menu-print-label
     menu-session-audit
+    menu-training
     menu-payment
     menu-request
     menu-mail-template
@@ -315,7 +445,6 @@ Menu
     menu-payroll-department
     menu-payroll-job
     menu-payroll-concept-catalog
-    menu-import-confirmations
     menu-payroll-definition
     menu-payroll-concept-category
     menu-payroll-table-type
@@ -324,7 +453,6 @@ Menu
     menu-advertisement
     menu-production
     menu-print-format
-    menu-print-font
     menu-print-color
     menu-print-paper
     menu-alert-processor
@@ -332,7 +460,6 @@ Menu
     menu-media-item
     menu-news-channel
     menu-entity-type
-    menu-pos-terminal
     menu-web-ad-management
     menu-web-project
     menu-commission-run
@@ -371,6 +498,7 @@ Menu
     menu-sla-by-partner
     menu-rfq-response
     menu-shipreceipt-confirm
+    menu-import-confirmations
     menu-performance-color-schema
     menu-dunning-run
     menu-demand
@@ -387,9 +515,9 @@ Menu
     menu-process-audit
     menu-change-notice
     menu-gl-distribution
+    menu-pos-terminal
     menu-pos-key-layout
     menu-system-registration
-    menu-payment-allocation
     menu-physical-inventory
     menu-performance-measure
     menu-financial-report
@@ -446,35 +574,11 @@ Menu
     menu-product-class
     menu-product-group
     menu-import-workflow
-    menu-vehicle-type
-    menu-transport-unit
-    menu-transport-unit-type
-    menu-transport-compartment
-    menu-transport-requirement
-    menu-reapply-customizations
-    menu-rebuild-index
-    menu-distribution-run-orders
-    menu-clean-up-garden-world
-    menu-create-doc-type-to-manufacturing
-    menu-create-element
-    menu-workflow-cost-roll-up
-    menu-bill-of-material--formula-cost-roll-up
-    menu-product-costing
-    menu-transport-compatibility-group
-    menu-transport-requirement-type
-    menu-driver
-    menu-transport-license
-    menu-transport-license-type
-    menu-commission-group
-    menu-commission-definition
-    menu-forecast
     menu-sales-history
     menu-operational-calendar
     menu-import-sales-history
     menu-forecast-rule
     menu-forecast-definition
-    menu-copy-price-to-standard-cost
-    menu-the-bank-statement-report
     menu-outbound-order
     menu-forecast-simulation
     menu-import-forecast
@@ -495,6 +599,7 @@ Menu
     menu-asset-disposal
     menu-web-service-definition
     menu-web-service-security
+    menu-contact
     menu-lead
     menu-sales-stage
     menu-sales-opportunity
@@ -525,16 +630,47 @@ Menu
     menu-shipper-and-vehicle
     menu-freight-order
     menu-vehicle
-    menu-order-detail
-    menu-payroll-create-invoice
-    menu-product-cost-detail
-    menu-degree
-    menu-create-po-from-requisition
-    menu-sequence-check
-    menu-material-receipt-details
-    menu-shipment-details
-    menu-print-dunning-letters
-    menu-create-costing-records
+    menu-vehicle-type
+    menu-transport-unit
+    menu-transport-unit-type
+    menu-transport-compartment
+    menu-transport-requirement
+    menu-transport-compatibility-group
+    menu-transport-requirement-type
+    menu-driver
+    menu-transport-license
+    menu-commission-group
+    menu-commission-definition
+    menu-forecast
+    menu-project-group
+    menu-project-class
+    menu-project-category
+    menu-fixed-asset-split
+    menu-project-status-category
+    menu-project-category-task
+    menu-cash-journal-definition
+    menu-cash
+    menu-cash-closing
+    menu-import-project
+    menu-project-member-type
+    menu-payroll-process-report
+    menu-project-processor
+    menu-project-info
+    menu-context-info
+    menu-token-definition
+    menu-token-for-access
+    menu-unallocated-payments
+    menu-monthly-invoice
+    menu-test-export-model
+    menu-test-import-model
+    menu-depreciation-expense-entry
+    menu-send-mail-text
+    menu-monthly-invoice-vendor
+    menu-weekly-invoice
+    menu-vendor-selection
+    menu-quarterly-invoice-customer-by-product
+    menu-quarterly-invoice-customer-by-vendor
+    menu-business-partner-organization
     menu-reopen-order
     menu-mrp-details
     menu-calculate-capacity-plan
@@ -575,17 +711,6 @@ Menu
     menu-aging
     menu-project-lines-not-issued
     menu-rfq-unanswered
-    menu-forecast-report-by-period
-    menu-order-transactions
-    menu-storage-per-product
-    menu-pos-key-generate
-    menu-manufacturing-orders-review--
-    menu-component-check
-    menu-recalculate-cube
-    menu-verify-bom-structure
-    menu-universal-substitution
-    menu-replenish-report-incl.-production
-    menu-generate-invoices-from-shipments
     menu-project-pos-not-issued
     menu-project-margin-work-order
     menu-storage-detail
@@ -610,48 +735,7 @@ Menu
     menu-cache-reset
     menu-reopen-request
     menu-synchronize-terminology
-    menu-commission-run-summary
-    menu-open-items-to-date
-    menu-order-batch-process
-    menu-generate-surrogate-keys
     menu-receivables-write-off
-    menu-forecast-simulation-result
-    menu-generate-shipments-from-outbound-order
-    menu-mrp-action-messages
-    menu-approval-distribution-order
-    menu-approval-manufacturing-order
-    menu-approval-material-requisition
-    menu-mrp-demands-browse
-    menu-mrp-supplies-browse
-    menu-scheduling-of-the-demands
-    menu-scheduling-of-the-supplies
-    menu-activities-scheduling
-    menu-release-outbound-order-to-pick
-    menu-activities-progress-monitor
-    menu-activities-progress-control
-    menu-job-openings-browser
-    menu-my-applicants-browser
-    menu-history-payroll-movement
-    menu-generate-movement-manual
-    menu-material-receipt-distribution-order
-    menu-generate-shipment-from-order-lines
-    menu-generate-outbound-order-based-on-sales-orders
-    menu-generate-outbound-order-based-on-demands
-    menu-pos-withdrawal
-    menu-browser-ar-invoice
-    menu-browser-ap-invoice
-    menu-pos-bank-statement-close
-    menu-browser-sales-order
-    menu-browser-purchase-order
-    menu-generate-payment-selection-from-invoice
-    menu-browser-global-payroll-concept
-    menu-transport-requirement-browser
-    menu-transport-license-browser
-    menu-driver-browser
-    menu-vehicle-browser
-    menu-process-orders
-    menu-generate-invoice-from-order-lines
-    menu-generate-shipments-from-demands
     menu-rfq-response
     menu-resubmit-posting
     menu-reset-accounting
@@ -721,19 +805,6 @@ Menu
     menu-employee-detail-bank-account
     menu-employee-detail-dependent
     menu-employee-detail-salary-change
-    menu-unallocated-payments
-    menu-daily-invoice
-    menu-monthly-invoice
-    menu-test-export-model
-    menu-test-import-model
-    menu-depreciation-expense-entry
-    menu-send-mail-text
-    menu-monthly-invoice-vendor
-    menu-weekly-invoice
-    menu-vendor-selection
-    menu-quarterly-invoice-customer-by-product
-    menu-quarterly-invoice-customer-by-vendor
-    menu-business-partner-organization
     menu-material-transactions
     menu-bom-drop
     menu-translation-importexport
@@ -744,71 +815,10 @@ Menu
     menu-accounting-fact-reconcilation-manual
     menu-bom--formula-info
     menu-performance-measurement-setup
-    menu-race
-    menu-language
-    menu-user
-    menu-client
-    menu-organization
-    menu-role
-    menu-document-sequence
-    menu-workflow
-    menu-performance-indicators
-    menu-product-attribute-grid
-    menu-workflow-editor
-    menu-workflow-activities
-    menu-tree-maintenance
-    menu-merge-entities
-    menu-generate-shipments-manual
-    menu-payment-selection
-    menu-payroll-process
-    menu-bill-of-materials--formula-
-    menu-business-partner-info
-    menu-accounting-processor
-    menu-organization-type
-    menu-request-all
-    menu-import-business-partner
-    menu-change-audit
-    menu-import-account
-    menu-tax-group
-    menu-tax-definition
-    menu-request-setup
-    menu-distribution-management-setup
-    menu-discrete-manufacturing-setup
     menu-manufacturing-management-setup
     menu-manufacturing-workflow-setup
     menu-bill-of-material--formula-setup
     menu-planning-management-setup
     menu-material-requirement-planning-setup
-    menu-bank
-    menu-copy-cost-type-to-other-cost-type
-    menu-generate-immediate-invoice
-    menu-reverse-the-sales-transaction
-    menu-create-order-based-on-another
-    menu-demand-delivery-planning
-    menu-outbound-order-delivery-schedule
-    menu-replenish-plan-report
-    menu-cost-bom-multi-level-review
-    menu-replenish-plan-production-report
-    menu-replenish-plan-requisition-report
-    menu-replenish-plan-generate-report
-    menu-generate-manufacturing-order-cost
-    menu-material-reference
-    menu-create-ap-expense-invoices
-    menu-open-requisitions
-    menu-unlink-business-partner-org
-    menu-create-sales-orders-from-expense
-    menu-business-partner-open
-    menu-product-cost
-    menu-product-cost-summary
-    menu-generate-charges
-    menu-matching-po-receipt-invoice
-    menu-payroll-action-notice
-    menu-manufacturing-workflow-editor
-    menu-pos
-    menu-import-file-loader
-    menu-payment-printexport
-    menu-bom--formula-info
-    menu-product-configuration-bom
-    menu-mrp-info
-    menu-generate-shipments--invoices-manual
+    menu-commission-type
     menu-generate-documentation-from-menu

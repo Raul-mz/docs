@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Simulated Pick List
+* Simulated Pick List
 
 Menu Type
 ---------

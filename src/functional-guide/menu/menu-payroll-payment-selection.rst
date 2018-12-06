@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Payment Selection
+* Payroll Payment Selection
 
 Menu Type
 ---------

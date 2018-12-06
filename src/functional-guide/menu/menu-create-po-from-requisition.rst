@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Create PO from Requisition
+* Create PO from Requisition
 
 Menu Type
 ---------

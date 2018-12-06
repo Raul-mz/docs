@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Distribution Order Detail
+* Distribution Order Detail
 
 Menu Type
 ---------

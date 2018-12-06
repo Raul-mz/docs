@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Training
+* Training
 
 Menu Type
 ---------

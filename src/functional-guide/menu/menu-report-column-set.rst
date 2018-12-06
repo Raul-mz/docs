@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Report Column Set
+* Report Column Set
 
 Menu Type
 ---------

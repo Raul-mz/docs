@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Recruitment Management
-
-   * Salary Range
+* Salary Range
 
 Menu Type
 ---------

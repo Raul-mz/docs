@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Interest Area
+* Interest Area
 
 Menu Type
 ---------

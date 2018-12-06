@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Costing
-
-  * Product Cost
+* Product Cost
 
 Menu Type
 ---------

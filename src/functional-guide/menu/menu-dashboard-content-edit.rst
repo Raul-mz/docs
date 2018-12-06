@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Dashboard Content Edit
+* Dashboard Content Edit
 
 Menu Type
 ---------

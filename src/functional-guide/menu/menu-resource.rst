@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Resource
+* Resource
 
 Menu Type
 ---------

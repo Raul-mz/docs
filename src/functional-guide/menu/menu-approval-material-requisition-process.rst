@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Approval Material Requisition process
+* Approval Material Requisition process
 
 Menu Type
 ---------

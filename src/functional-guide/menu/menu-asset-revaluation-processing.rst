@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Revaluation
-
-  * Asset Revaluation Processing
+* Asset Revaluation Processing
 
 Menu Type
 ---------

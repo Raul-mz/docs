@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Vehicle Browser
+* Vehicle Browser
 
 Menu Type
 ---------

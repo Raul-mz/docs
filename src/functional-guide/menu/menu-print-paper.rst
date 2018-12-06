@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Printing
-
-   * Print Paper
+* Print Paper
 
 Menu Type
 ---------

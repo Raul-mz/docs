@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Client Rules
-
-  * Initial Client Setup
+* Initial Client Setup
 
 Menu Type
 ---------

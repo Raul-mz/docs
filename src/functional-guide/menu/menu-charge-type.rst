@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Charge Type
+* Charge Type
 
 Menu Type
 ---------

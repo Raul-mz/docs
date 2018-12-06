@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Costing
-
-  * Generate Cost Transaction
+* Generate Cost Transaction
 
 Menu Type
 ---------

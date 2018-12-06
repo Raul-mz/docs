@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Reporting Hierarchy
+* Reporting Hierarchy
 
 Menu Type
 ---------

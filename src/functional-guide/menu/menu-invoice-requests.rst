@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Invoice Requests
+* Invoice Requests
 
 Menu Type
 ---------

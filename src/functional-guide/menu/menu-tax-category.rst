@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Tax Category
+* Tax Category
 
 Menu Type
 ---------

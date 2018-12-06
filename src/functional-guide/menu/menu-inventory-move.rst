@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Inventory Move
+* Inventory Move
 
 Menu Type
 ---------

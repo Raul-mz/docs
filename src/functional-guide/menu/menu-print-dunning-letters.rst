@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Print Dunning Letters
+* Print Dunning Letters
 
 Menu Type
 ---------

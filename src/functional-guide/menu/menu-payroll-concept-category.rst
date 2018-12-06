@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Concept Category
+* Payroll Concept Category
 
 Menu Type
 ---------

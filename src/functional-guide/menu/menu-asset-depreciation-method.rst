@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Asset Depreciation Method
+* Asset Depreciation Method
 
 Menu Type
 ---------

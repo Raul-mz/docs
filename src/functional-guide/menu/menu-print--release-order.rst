@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Discreet Manufacturing
-
-   * Print & Release Order
+* Print & Release Order
 
 Menu Type
 ---------

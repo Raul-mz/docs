@@ -29,8 +29,8 @@ Fields
 Name                   Description                                                                 Displayed  Query Criteria  Order By  Read Only  Mandatory
 =====================  ==========================================================================  =========  ==============  ========  =========  =========
 Confidentiality        Type of Confidentiality                                                     No         Yes             No        Yes        No       
-Self-Service           This is a Self-Service entry or this entry can be changed via Self-Service  No         Yes             No        Yes        No       
 Processed              The document has been processed                                             No         Yes             No        Yes        No       
+Self-Service           This is a Self-Service entry or this entry can be changed via Self-Service  No         Yes             No        Yes        No       
 Related Request        Related Request (Master Issue, ..)                                          No         Yes             No        No         No       
 Request                Request from a Business Partner or Prospect                                 Yes        No              No        Yes        No       
 Project                Financial Project                                                           Yes        Yes             No        Yes        No       

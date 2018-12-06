@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Price List Setup
+* Price List Setup
 
 Menu Type
 ---------

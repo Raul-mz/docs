@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Fact Daily
+* Accounting Fact Daily
 
 Menu Type
 ---------

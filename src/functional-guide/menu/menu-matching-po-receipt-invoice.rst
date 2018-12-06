@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Matching PO-Receipt-Invoice
+* Matching PO-Receipt-Invoice
 
 Menu Type
 ---------

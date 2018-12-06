@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Document Status Indicator
+* Document Status Indicator
 
 Menu Type
 ---------

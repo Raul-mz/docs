@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Payment Print/Export
+* Payroll Payment Print/Export
 
 Menu Type
 ---------

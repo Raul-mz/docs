@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Invoices
-
-  * Generate Invoices
+* Generate Invoices
 
 Menu Type
 ---------

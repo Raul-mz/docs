@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Customer
+* Customer
 
 Menu Type
 ---------

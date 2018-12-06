@@ -30,3 +30,11 @@ Cost Distribution
 
 Create by Product
 -----------------
+
+Landed Cost Type
+----------------
+\ **Description**\ 
+ \ *Categorization of landed costs according to Incoterms*\ 
+
+.. note::
+    The field must have a value for the record to be saved to the database.

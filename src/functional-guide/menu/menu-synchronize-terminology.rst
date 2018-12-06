@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Synchronize Terminology
+* Synchronize Terminology
 
 Menu Type
 ---------

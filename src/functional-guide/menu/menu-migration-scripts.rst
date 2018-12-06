@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Migration Scripts
+* Migration Scripts
 
 Menu Type
 ---------

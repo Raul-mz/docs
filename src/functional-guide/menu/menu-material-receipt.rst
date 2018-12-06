@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Material Receipt
+* Material Receipt
 
 Menu Type
 ---------

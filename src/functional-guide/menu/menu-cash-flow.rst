@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Cash Flow Management
-
- * Cash Flow
+* Cash Flow
 
 Menu Type
 ---------

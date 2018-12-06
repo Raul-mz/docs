@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Business Partner Rules
-
-  * Withholding (1099)
+* Withholding (1099)
 
 Menu Type
 ---------

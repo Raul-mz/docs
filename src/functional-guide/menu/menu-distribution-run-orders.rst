@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Distribution Run Orders
+* Distribution Run Orders
 
 Menu Type
 ---------

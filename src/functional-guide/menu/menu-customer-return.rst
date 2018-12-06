@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Returns
-
- * Customer Return
+* Customer Return
 
 Menu Type
 ---------

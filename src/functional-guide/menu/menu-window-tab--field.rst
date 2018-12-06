@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Window, Tab & Field
+* Window, Tab & Field
 
 Menu Type
 ---------

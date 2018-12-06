@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Utility
-
-   * Attachment
+* Attachment
 
 Menu Type
 ---------

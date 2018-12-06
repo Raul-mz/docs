@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Net Change Material Plan
+* Net Change Material Plan
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Generate Charges
+* Generate Charges
 
 Menu Type
 ---------

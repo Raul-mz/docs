@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Setup and Use
+* Project Setup and Use
 
 Menu Type
 ---------

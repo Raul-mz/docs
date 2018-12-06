@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Forecast
+* Import Forecast
 
 Menu Type
 ---------

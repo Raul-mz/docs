@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Stocktake
+* Stocktake
 
 Menu Type
 ---------

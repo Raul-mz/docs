@@ -5,22 +5,14 @@
 Payroll Create Invoice
 ======================
 
-Allows generate invoice for payroll process of the concepts set as invoiced.
 
 Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Create Invoice
+* Payroll Create Invoice
 
 Menu Type
 ---------
-\ **Process**\ 
+\ **Smart Browse**\ 
 
-
-.. seealso::
-    :ref:`functional-guide/process/process-hr_create-invoice`

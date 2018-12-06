@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Vendor Selection
+* Vendor Selection
 
 Menu Type
 ---------

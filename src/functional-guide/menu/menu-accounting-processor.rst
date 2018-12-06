@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Accounting Processor
+* Accounting Processor
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Fixed Asset Balance Browser
+* Fixed Asset Balance Browser
 
 Menu Type
 ---------

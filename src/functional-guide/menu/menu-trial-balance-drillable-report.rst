@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Trial Balance Drillable Report
+* Trial Balance Drillable Report
 
 Menu Type
 ---------

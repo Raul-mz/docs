@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Confirmations
+* Import Confirmations
 
 Menu Type
 ---------

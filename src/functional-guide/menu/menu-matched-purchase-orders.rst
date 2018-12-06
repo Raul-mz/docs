@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Matched Purchase Orders
+* Matched Purchase Orders
 
 Menu Type
 ---------

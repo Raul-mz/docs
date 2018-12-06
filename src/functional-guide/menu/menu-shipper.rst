@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Shipper
+* Shipper
 
 Menu Type
 ---------

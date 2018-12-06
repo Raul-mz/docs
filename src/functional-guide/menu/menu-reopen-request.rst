@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Reopen Request
+* Reopen Request
 
 Menu Type
 ---------

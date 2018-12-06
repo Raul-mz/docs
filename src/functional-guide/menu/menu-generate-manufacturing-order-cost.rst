@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Generate Manufacturing Order Cost
+* Generate Manufacturing Order Cost
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * RfQ Topic
+* RfQ Topic
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * GL Fund (Alpha)
+* GL Fund (Alpha)
 
 Menu Type
 ---------

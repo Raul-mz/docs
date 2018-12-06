@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Aging with payments (revalued)
+* Aging with payments (revalued)
 
 Menu Type
 ---------

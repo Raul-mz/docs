@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Costing
-
-  * Transaction Valuation
+* Transaction Valuation
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Sales Rep Info
+* Sales Rep Info
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Web
-
-  * Clicks Unprocessed
+* Clicks Unprocessed
 
 Menu Type
 ---------

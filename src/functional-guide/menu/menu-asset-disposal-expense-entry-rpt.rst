@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * Asset Disposal Expense Entry Rpt
+* Asset Disposal Expense Entry Rpt
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Role Data Access
+* Role Data Access
 
 Menu Type
 ---------

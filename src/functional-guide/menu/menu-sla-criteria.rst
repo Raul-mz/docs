@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Performance Measurement
-
-  * SLA Criteria
+* SLA Criteria
 
 Menu Type
 ---------

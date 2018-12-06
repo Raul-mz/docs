@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Revaluation
-
-  * Revaluation Asset
+* Revaluation Asset
 
 Menu Type
 ---------

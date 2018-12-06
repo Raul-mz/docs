@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Bill of Material & Formula Cost Roll-UP
+* Bill of Material & Formula Cost Roll-UP
 
 Menu Type
 ---------

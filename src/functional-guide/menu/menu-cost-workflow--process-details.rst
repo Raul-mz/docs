@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Cost Workflow & Process Details
+* Cost Workflow & Process Details
 
 Menu Type
 ---------

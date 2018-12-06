@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Returns
-
- * Vendor RMA
+* Vendor RMA
 
 Menu Type
 ---------

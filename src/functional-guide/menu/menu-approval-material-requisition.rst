@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Approval Material Requisition
+* Approval Material Requisition
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Application Packaging
-
-  * PackIn - Import a package
+* PackIn - Import a package
 
 Menu Type
 ---------

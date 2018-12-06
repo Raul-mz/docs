@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Application Packaging
-
-  * PackOut - Create a package
+* PackOut - Create a package
 
 Menu Type
 ---------

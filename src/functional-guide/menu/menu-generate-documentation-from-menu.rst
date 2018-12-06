@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Utility
-
-   * Generate Documentation from Menu
+* Generate Documentation from Menu
 
 Menu Type
 ---------

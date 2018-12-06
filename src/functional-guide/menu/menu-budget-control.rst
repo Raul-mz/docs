@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Budget Management
-
-  * Budget Control
+* Budget Control
 
 Menu Type
 ---------

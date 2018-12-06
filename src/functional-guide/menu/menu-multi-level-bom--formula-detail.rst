@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Bill of Material & Formulas
-
-   * Multi Level BOM & Formula Detail
+* Multi Level BOM & Formula Detail
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * MRP Notice (all)
+* MRP Notice (all)
 
 Menu Type
 ---------

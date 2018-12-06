@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Storage Detail
+* Storage Detail
 
 Menu Type
 ---------

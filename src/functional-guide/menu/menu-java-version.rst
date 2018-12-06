@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Java Version
+* Java Version
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Client Rules
-
-  * Client
+* Client
 
 Menu Type
 ---------

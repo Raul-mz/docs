@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Import migration from XML
+* Import migration from XML
 
 Menu Type
 ---------

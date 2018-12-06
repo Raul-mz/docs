@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * POS Bank Statement Close
+* POS Bank Statement Close
 
 Menu Type
 ---------

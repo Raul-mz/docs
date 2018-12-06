@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Planned Order Approval (Deprecated)
+* Planned Order Approval (Deprecated)
 
 Menu Type
 ---------

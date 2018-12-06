@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Sales Order
+* Sales Order
 
 Menu Type
 ---------

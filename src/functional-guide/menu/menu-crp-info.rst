@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * CRP
-
-   * CRP Info
+* CRP Info
 
 Menu Type
 ---------

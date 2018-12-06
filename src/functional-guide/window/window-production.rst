@@ -118,13 +118,6 @@ Business Partner
 Production Batch
 ----------------
 
-Product
--------
-\ **Description**\ 
- \ *Product, Service, Item*\ 
-\ **Help**\ 
- \ *Identifies an item which is either purchased or sold in this organization.*\ 
-
 User List 3
 -----------
 \ **Description**\ 
@@ -132,12 +125,12 @@ User List 3
 \ **Help**\ 
  \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
-User List 4
------------
+Product
+-------
 \ **Description**\ 
- \ *User defined list element #4*\ 
+ \ *Product, Service, Item*\ 
 \ **Help**\ 
- \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
+ \ *Identifies an item which is either purchased or sold in this organization.*\ 
 
 Locator
 -------
@@ -145,6 +138,13 @@ Locator
  \ *Warehouse Locator*\ 
 \ **Help**\ 
  \ *The Locator indicates where in a Warehouse a product is located.*\ 
+
+User List 4
+-----------
+\ **Description**\ 
+ \ *User defined list element #4*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
 Production Quantity
 -------------------

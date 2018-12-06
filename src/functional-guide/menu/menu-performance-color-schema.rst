@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Performance Measurement
-
-  * Performance Color Schema
+* Performance Color Schema
 
 Menu Type
 ---------

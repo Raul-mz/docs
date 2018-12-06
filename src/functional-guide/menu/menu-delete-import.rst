@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Delete Import
+* Delete Import
 
 Menu Type
 ---------

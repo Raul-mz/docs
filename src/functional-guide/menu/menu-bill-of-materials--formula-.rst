@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Quality Management
-
-  * Bill of Materials & Formula 
+* Bill of Materials & Formula 
 
 Menu Type
 ---------

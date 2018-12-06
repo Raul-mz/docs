@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Distribution Network
+* Distribution Network
 
 Menu Type
 ---------

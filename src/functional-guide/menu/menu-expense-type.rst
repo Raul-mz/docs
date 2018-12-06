@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Expense Type
+* Expense Type
 
 Menu Type
 ---------

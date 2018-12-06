@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * Reverse The Sales Transaction
+* Reverse The Sales Transaction
 
 Menu Type
 ---------

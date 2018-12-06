@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Generate Payment (From Invoice Customer)
+* Generate Payment (From Invoice Customer)
 
 Menu Type
 ---------

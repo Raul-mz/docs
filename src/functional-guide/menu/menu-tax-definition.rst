@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Global Tax Management
-
-   * Tax Definition
+* Tax Definition
 
 Menu Type
 ---------

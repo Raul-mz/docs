@@ -309,13 +309,13 @@ Copy Lines
 \ **Description**\ 
  \ *Copy Lines from other Invoice*\ 
 
+Process Invoice
+---------------
+
 Is Fixed Asset Invoice
 ----------------------
 \ **Description**\ 
  \ *Indicates if an Invoice is for a Fixed Asset*\ 
-
-Process Invoice
----------------
 
 Posted
 ------
@@ -606,6 +606,13 @@ If not selected, the user cannot create a new Record.  This is automatically dis
 Fields
 ======
 
+Distribute Costs
+----------------
+\ **Description**\ 
+ \ *Distribute costs to Products*\ 
+\ **Help**\ 
+ \ *Distribute costs to Products based on selections - Distribution Base (Quantity, Current Costs, Line, Weight, ..) and Receipt/Line or directly to the product.*\ 
+
 Client
 ------
 \ **Description**\ 
@@ -665,12 +672,10 @@ Product
 \ **Help**\ 
  \ *Identifies an item which is either purchased or sold in this organization.*\ 
 
-Distribute Costs
+Landed Cost Type
 ----------------
 \ **Description**\ 
- \ *Distribute costs to Products*\ 
-\ **Help**\ 
- \ *Distribute costs to Products based on selections - Distribution Base (Quantity, Current Costs, Line, Weight, ..) and Receipt/Line or directly to the product.*\ 
+ \ *Categorization of landed costs according to Incoterms*\ 
 
 Landed Cost Allocation
 ----------------------

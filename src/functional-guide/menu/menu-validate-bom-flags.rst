@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Validate BOM Flags
+* Validate BOM Flags
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Replenish Plan Run
+* Replenish Plan Run
 
 Menu Type
 ---------

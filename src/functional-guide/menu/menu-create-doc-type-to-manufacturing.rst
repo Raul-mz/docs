@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Create Doc Type to Manufacturing
+* Create Doc Type to Manufacturing
 
 Menu Type
 ---------

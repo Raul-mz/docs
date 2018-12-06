@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Status Summary
+* Project Status Summary
 
 Menu Type
 ---------

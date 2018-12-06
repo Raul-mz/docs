@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Copy Role
+* Copy Role
 
 Menu Type
 ---------

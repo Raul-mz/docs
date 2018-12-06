@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * RfQ Unanswered
+* RfQ Unanswered
 
 Menu Type
 ---------

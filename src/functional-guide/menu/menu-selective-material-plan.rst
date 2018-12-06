@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Selective Material Plan
+* Selective Material Plan
 
 Menu Type
 ---------

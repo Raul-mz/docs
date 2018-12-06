@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Sales Rep Dashboard
+* Sales Rep Dashboard
 
 Menu Type
 ---------

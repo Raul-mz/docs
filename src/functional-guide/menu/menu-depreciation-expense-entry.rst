@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Processing
-
-  * Depreciation Expense Entry
+* Depreciation Expense Entry
 
 Menu Type
 ---------

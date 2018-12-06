@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Clean Up Garden World
+* Clean Up Garden World
 
 Menu Type
 ---------

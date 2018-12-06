@@ -388,15 +388,15 @@ Copy Lines
 Process Order
 -------------
 
+Order Source
+------------
+
 Posted
 ------
 \ **Description**\ 
  \ *Posting status*\ 
 \ **Help**\ 
  \ *The Posted field indicates the status of the Generation of General Ledger Accounting Lines*\ 
-
-Order Source
-------------
 
 Order Type
 ----------

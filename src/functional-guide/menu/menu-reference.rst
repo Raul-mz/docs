@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Reference
+* Reference
 
 Menu Type
 ---------

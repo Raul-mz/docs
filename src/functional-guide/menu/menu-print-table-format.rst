@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Printing
-
-   * Print Table Format
+* Print Table Format
 
 Menu Type
 ---------

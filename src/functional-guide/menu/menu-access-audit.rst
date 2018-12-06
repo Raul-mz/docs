@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Access Audit
+* Access Audit
 
 Menu Type
 ---------

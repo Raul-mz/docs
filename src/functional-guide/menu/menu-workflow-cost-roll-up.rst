@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Workflow Cost Roll-Up
+* Workflow Cost Roll-Up
 
 Menu Type
 ---------

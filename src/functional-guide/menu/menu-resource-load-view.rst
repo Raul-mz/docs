@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * CRP
-
-   * Resource Load View
+* Resource Load View
 
 Menu Type
 ---------

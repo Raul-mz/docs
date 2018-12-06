@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Request Management
-
-  * Known Issue
+* Known Issue
 
 Menu Type
 ---------

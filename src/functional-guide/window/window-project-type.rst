@@ -245,6 +245,25 @@ Standard Quantity
 \ **Description**\ 
  \ *Standard Quantity*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Standard Task
 -------------
 \ **Description**\ 
@@ -392,3 +411,22 @@ Standard Quantity
 -----------------
 \ **Description**\ 
  \ *Standard Quantity*\ 
+
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 

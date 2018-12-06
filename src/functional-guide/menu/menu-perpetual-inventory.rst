@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Perpetual Inventory
+* Perpetual Inventory
 
 Menu Type
 ---------

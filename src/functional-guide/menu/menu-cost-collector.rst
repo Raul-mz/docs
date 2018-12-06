@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Cost Collector
+* Cost Collector
 
 Menu Type
 ---------

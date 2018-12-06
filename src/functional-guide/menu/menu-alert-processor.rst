@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Alert Processor
+* Alert Processor
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Verify BOMs
+* Verify BOMs
 
 Menu Type
 ---------

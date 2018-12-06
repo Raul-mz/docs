@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Invoice Batch
+* Invoice Batch
 
 Menu Type
 ---------

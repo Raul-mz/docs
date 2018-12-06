@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Browser AP Invoice
+* Browser AP Invoice
 
 Menu Type
 ---------

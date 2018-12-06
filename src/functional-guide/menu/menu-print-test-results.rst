@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Quality Management
-
-  * Print Test Results
+* Print Test Results
 
 Menu Type
 ---------

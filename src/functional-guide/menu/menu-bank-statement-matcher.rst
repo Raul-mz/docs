@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Bank Statement Matcher
+* Bank Statement Matcher
 
 Menu Type
 ---------

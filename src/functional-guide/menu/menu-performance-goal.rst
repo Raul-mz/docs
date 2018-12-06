@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Performance Measurement
-
-  * Performance Goal
+* Performance Goal
 
 Menu Type
 ---------

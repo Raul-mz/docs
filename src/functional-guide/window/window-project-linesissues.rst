@@ -371,6 +371,25 @@ Vendor
 \ **Description**\ 
  \ *The Vendor of the product/service*\ 
 
+Bill of Materials
+-----------------
+\ **Description**\ 
+ \ *Bill of Materials*\ 
+\ **Help**\ 
+ \ *The Bill of Materials check box indicates if this product consists of a bill of materials.*\ 
+
+BOM & Formula
+-------------
+\ **Description**\ 
+ \ *BOM & Formula*\ 
+
+Workflow
+--------
+\ **Description**\ 
+ \ *Workflow or combination of tasks*\ 
+\ **Help**\ 
+ \ *The Workflow field identifies a unique Workflow in the system.*\ 
+
 Planned Price
 -------------
 \ **Description**\ 
@@ -448,6 +467,11 @@ Purchase Order
 --------------
 \ **Description**\ 
  \ *Purchase Order*\ 
+
+Manufacturing Order
+-------------------
+\ **Description**\ 
+ \ *Manufacturing Order*\ 
 
 Project Issue
 -------------

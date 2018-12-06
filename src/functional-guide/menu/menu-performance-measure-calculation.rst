@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Performance Measurement
-
-  * Performance Measure Calculation
+* Performance Measure Calculation
 
 Menu Type
 ---------

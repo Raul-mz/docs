@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Global Tax Management
-
-   * C_Invoce Calculate Tax
+* C_Invoce Calculate Tax
 
 Menu Type
 ---------

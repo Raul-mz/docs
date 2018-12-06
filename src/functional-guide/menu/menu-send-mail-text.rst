@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Send Mail Text
+* Send Mail Text
 
 Menu Type
 ---------

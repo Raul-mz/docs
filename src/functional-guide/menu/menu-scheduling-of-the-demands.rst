@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Scheduling of the Demands
+* Scheduling of the Demands
 
 Menu Type
 ---------

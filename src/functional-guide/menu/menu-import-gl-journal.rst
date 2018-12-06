@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import GL Journal
+* Import GL Journal
 
 Menu Type
 ---------

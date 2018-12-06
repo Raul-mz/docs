@@ -29,22 +29,22 @@ Fields
 =====================  ===================================================================================  =========  ==============  ========  =========  =========
 Name                   Description                                                                          Displayed  Query Criteria  Order By  Read Only  Mandatory
 =====================  ===================================================================================  =========  ==============  ========  =========  =========
-Project Name           Alphanumeric identifier of the entity                                                No         Yes             No        Yes        No       
-User List 3            User defined list element #3                                                         No         Yes             No        Yes        No       
+Project Class          Project Class                                                                        No         Yes             No        Yes        No       
 Indefinite             Indefinite                                                                           No         Yes             No        Yes        No       
+Project Group          Project Group                                                                        No         Yes             No        Yes        No       
 Activity               Business Activity                                                                    No         Yes             No        Yes        No       
 Trx Organization       Performing or initiating organization                                                No         Yes             No        Yes        No       
-Order Reference        Transaction Reference Number (Sales Order, Purchase Order) of your Business Partner  No         Yes             No        Yes        No       
-User List 1            User defined list element #1                                                         No         Yes             No        Yes        No       
+User List 3            User defined list element #3                                                         No         Yes             No        Yes        No       
+Project Name           Alphanumeric identifier of the entity                                                No         Yes             No        Yes        No       
 User List 4            User defined list element #4                                                         No         Yes             No        Yes        No       
+Order Reference        Transaction Reference Number (Sales Order, Purchase Order) of your Business Partner  No         Yes             No        Yes        No       
 Project Category       Project Category                                                                     No         Yes             No        Yes        No       
-Project Class          Project Class                                                                        No         Yes             No        Yes        No       
+User List 1            User defined list element #1                                                         No         Yes             No        Yes        No       
 User List 2            User defined list element #2                                                         No         Yes             No        Yes        No       
-Project Group          Project Group                                                                        No         Yes             No        Yes        No       
+Currency               The Currency for this record                                                         No         Yes             No        Yes        No       
 Sales Representative   Sales Representative or Company Agent                                                No         Yes             No        Yes        No       
 Campaign               Marketing Campaign                                                                   No         Yes             No        Yes        No       
 Business Partner       Identifies a Business Partner                                                        No         Yes             No        Yes        No       
-Currency               The Currency for this record                                                         No         Yes             No        Yes        No       
 Project Task           Actual Project Task in a Phase                                                       Yes        No              No        Yes        No       
 Project                Financial Project                                                                    Yes        Yes             Yes       Yes        No       
 Project Manager        Project Manager                                                                      Yes        Yes             No        Yes        No       

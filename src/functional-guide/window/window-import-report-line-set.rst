@@ -121,16 +121,16 @@ Posting Type
 Amount Type
 -----------
 \ **Description**\ 
- \ *Type of amount to report*\ 
+ \ *PA Amount Type for reporting*\ 
 \ **Help**\ 
- \ *You can choose between the total and period amounts as well as the balance or just the debit/credit amounts.*\ 
+ \ *The amount type to report on: Quantity, Credit Only, Debit Only, Balance (expected sign) or Balance (accounted sign). "Expected sign" adjusts the sign of the result based on the Account Type and Expected Sign of each Account Element, whereas "accounted sign" always returns DR-CR.*\ 
 
 Amount Type
 -----------
 \ **Description**\ 
- \ *PA Amount Type for reporting*\ 
+ \ *Type of amount to report*\ 
 \ **Help**\ 
- \ *The amount type to report on: Quantity, Credit Only, Debit Only, Balance (expected sign) or Balance (accounted sign). "Expected sign" adjusts the sign of the result based on the Account Type and Expected Sign of each Account Element, whereas "accounted sign" always returns DR-CR.*\ 
+ \ *You can choose between the total and period amounts as well as the balance or just the debit/credit amounts.*\ 
 
 Period Type
 -----------
@@ -176,12 +176,12 @@ Processed
 \ **Help**\ 
  \ *The Processed checkbox indicates that a document has been processed.*\ 
 
+Report Line Style
+-----------------
+
 Tab Level
 ---------
 \ **Description**\ 
  \ *Hierarchical Tab Level (0 = top)*\ 
 \ **Help**\ 
  \ *Hierarchical level of the tab. If the level is 0, it is the top entity. Level 1 entries are dependent on level 0, etc.*\ 
-
-Report Line Style
------------------

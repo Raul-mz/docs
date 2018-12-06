@@ -45,6 +45,44 @@ Account
 \ **Help**\ 
  \ *The (natural) account used*\ 
 
+GL Category
+-----------
+\ **Description**\ 
+ \ *General Ledger Category*\ 
+\ **Help**\ 
+ \ *The General Ledger Category is an optional, user defined method of grouping journal lines.*\ 
+
+Budget
+------
+\ **Description**\ 
+ \ *General Ledger Budget*\ 
+\ **Help**\ 
+ \ *The General Ledger Budget identifies a user defined budget.  These can be used in reporting as a comparison against your actual amounts.*\ 
+
+Posting Type
+------------
+\ **Description**\ 
+ \ *The type of posted amount for the transaction*\ 
+\ **Help**\ 
+ \ *The Posting Type indicates the type of amount (Actual, Budget, Reservation, Commitment, Statistical) the transaction.*\ 
+
+Currency
+--------
+\ **Description**\ 
+ \ *The Currency for this record*\ 
+\ **Help**\ 
+ \ *Indicates the Currency to be used when processing or reporting on this record*\ 
+
+Rate
+----
+\ **Description**\ 
+ \ *Rate or Tax or Exchange*\ 
+\ **Help**\ 
+ \ *The Rate indicates the percentage to be multiplied by the source to arrive at the tax or exchange amount.*\ 
+
+.. note::
+    The Range checkbox indicates that this parameter is a range of values.
+
 Business Partner
 ----------------
 \ **Description**\ 
@@ -59,9 +97,72 @@ Product
 \ **Help**\ 
  \ *Identifies an item which is either purchased or sold in this organization.*\ 
 
+Fixed Asset
+-----------
+\ **Description**\ 
+ \ *Fixed Asset used internally or by customers*\ 
+\ **Help**\ 
+ \ *A Fixed Asset is either created by purchasing or by delivering a product.  A Fixed Asset can be used internally or be a customer Fixed Asset.*\ 
+
+Locator
+-------
+\ **Description**\ 
+ \ *Warehouse Locator*\ 
+\ **Help**\ 
+ \ *The Locator indicates where in a Warehouse a product is located.*\ 
+
 Tax
 ---
 \ **Description**\ 
  \ *Tax identifier*\ 
 \ **Help**\ 
  \ *The Tax indicates the type of tax used in document line.*\ 
+
+Project
+-------
+\ **Description**\ 
+ \ *Financial Project*\ 
+\ **Help**\ 
+ \ *A Project allows you to track and control internal or external activities.*\ 
+
+Activity
+--------
+\ **Description**\ 
+ \ *Business Activity*\ 
+\ **Help**\ 
+ \ *Activities indicate tasks that are performed and used to utilize Activity based Costing*\ 
+
+Campaign
+--------
+\ **Description**\ 
+ \ *Marketing Campaign*\ 
+\ **Help**\ 
+ \ *The Campaign defines a unique marketing program.  Projects can be associated with a pre defined Marketing Campaign.  You can then report based on a specific Campaign.*\ 
+
+Trx Organization
+----------------
+\ **Description**\ 
+ \ *Performing or initiating organization*\ 
+\ **Help**\ 
+ \ *The organization which performs or initiates this transaction (for another organization).  The owning Organization may not be the transaction organization in a service bureau environment, with centralized services, and inter-organization transactions.*\ 
+
+Sales Region
+------------
+\ **Description**\ 
+ \ *Sales coverage region*\ 
+\ **Help**\ 
+ \ *The Sales Region indicates a specific area of sales coverage.*\ 
+
+User List 1
+-----------
+\ **Description**\ 
+ \ *User defined list element #1*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
+
+User List 2
+-----------
+\ **Description**\ 
+ \ *User defined list element #2*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 

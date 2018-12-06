@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Inventory Valuation Report
+* Inventory Valuation Report
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Warehouse Management Setup
-
-  * Inbound/Outbound Strategy
+* Inbound/Outbound Strategy
 
 Menu Type
 ---------

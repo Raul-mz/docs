@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Relation Type
+* Relation Type
 
 Menu Type
 ---------

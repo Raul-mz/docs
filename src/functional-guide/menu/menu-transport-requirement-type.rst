@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport Requirement Type
+* Transport Requirement Type
 
 Menu Type
 ---------

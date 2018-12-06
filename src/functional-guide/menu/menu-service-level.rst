@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Service Level
+* Service Level
 
 Menu Type
 ---------

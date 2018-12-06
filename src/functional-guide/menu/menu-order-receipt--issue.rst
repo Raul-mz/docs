@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Discreet Manufacturing
-
-   * Order Receipt & Issue
+* Order Receipt & Issue
 
 Menu Type
 ---------

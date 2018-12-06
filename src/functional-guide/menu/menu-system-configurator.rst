@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * System Configurator
+* System Configurator
 
 Menu Type
 ---------

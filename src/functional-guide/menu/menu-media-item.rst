@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Collaboration
-
-   * Media Item
+* Media Item
 
 Menu Type
 ---------

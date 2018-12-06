@@ -46,7 +46,6 @@ Process
     process-rv_transaction
     process-rv_click_month
     process-rv_click_unprocessed
-    process-ad_tree-verify
     process-rv_c_invoice_week
     process-rv_c_invoice_customerprodqtr
     process-rv_c_invoice_customervendqtr
@@ -65,6 +64,7 @@ Process
     process-c_invoice_generate-manual
     process-ad_impformat-copy
     process-ad_changelog_undo
+    process-hr_process-process
     process-pp_product_bom
     process-c_invoice_createinout
     process-c_cash-process
@@ -155,7 +155,6 @@ Process
     process-c_rfq_copylines
     process-c_recurring-run
     process-ad_table_createcolumns
-    process-ad_tab_createfields
     process-fact_acct_reset
     process-fact_acct_reset-delete
     process-c_rfq_createpo
@@ -173,7 +172,6 @@ Process
     process-c_bankstatement-banktransfer
     process-ad_native_sequence_enable
     process-import_product
-    process-c_projectphase_generate
     process-ad_language_maintain
     process-load_bankstatement
     process-c_order-open
@@ -198,6 +196,7 @@ Process
     process-m_requisition_pocreate
     process-housekeepingpara
     process-housekeeping
+    process-c_bpartner-org-link
     process-c_order-po_create
     process-ad_issue-report
     process-rv_c_invoice_productmonth
@@ -221,8 +220,6 @@ Process
     process-rv_inoutdetails-receive
     process-rv_inoutdetails-ship
     process-immediatebanktransfer
-    process-c_bpartner-org-link
-    process-hr_process-process
     process-c_bpartner-org-unlink
     process-rpt-m_inoutconfirm
     process-import_inoutconfirm
@@ -310,7 +307,6 @@ Process
     process-hr_payselection_createpayment
     process-ad_user_hashpassword
     process-wm_express-receipt-from-invoice
-    process-ad_view_createcolumn
     process-ad_smartbrowse_createfield
     process-import_workflow
     process-pp_simulated-pick-list
@@ -331,6 +327,8 @@ Process
     process-createshipment
     process-fact_reconciliation
     process-fact_reconciliation_auto
+    process-c_invoice-selection
+    process-wm_express-receipt-from-pos
     process-rv_t_combinedagingrevalue
     process-m_product_category_acct_copy
     process-c_bp_group_acct_copy
@@ -352,7 +350,8 @@ Process
     process-pp_order_cost-manufacturing-order-cost
     process-m_movement-generate-movement
     process-m_movement-material-receipt
-    process-c_invoice-selection
+    process-c_order-selection
+    process-hr_create-invoice
     process-mrp_manufacturing_order_approval
     process-mrp_distribution_order_approval
     process-a_asset_adition_process
@@ -412,7 +411,6 @@ Process
     process-wm_inoutbound-generate-shipment
     process-wm_inoutbound-generate
     process-c_pos-withdrawal
-    process-wm_express-receipt-from-pos
     process-mrp_net_change-material-plan
     process-mrp_selective-material-plan
     process-fa_projectcreateasset
@@ -438,8 +436,6 @@ Process
     process-sbp_createfromstatement
     process-c_pos-bank-statement-close
     process-sbp_invoicecreatefrom
-    process-c_order-selection
-    process-hr_create-invoice
     process-pp_copy-cost-type-to-cost-type
     process-sbp_payselectiongeneratefrominvoice
     process-m_inventory-updateqtycount
@@ -471,7 +467,6 @@ Process
     process-rv_hr_employeesalarychange
     process-rv_hr_employeebankaccount
     process-gl_distribution_copyfrom
-    process-ad_column-sync
     process-dd_requirement-assignment
     process-dd_license-assignment-license
     process-dd_freight_process
@@ -487,34 +482,44 @@ Process
     process-openitemtodate
     process-cache-reset
     process-wm_barcodescanner
-    process-cleanupgardenworld
+    process-ad_sequence_check
     process-ad_table-generate-surrogate-keys
     process-inf_hr_month_payroll_concept
     process-inf_hr_payroll_month_concept
-    process-import_project
-    process-ad_sequence_check
-    process-ad_synchronize
-    process-a_aseet_split-process
-    process-payrollprocessreport
-    process-hr_process_payrollprocessreport
-    process-c_payment-allocate
-    process-c_projecttype-copy-from
-    process-a_asset_split_process
-    process-ad_migration-export
-    process-inf_hr_contract_concept_category
-    process-r_generate-request
     process-ad_user-selection
     process-c_projectmember-browser
-    process-c_opportunity-create-project
-    process-createproductentriesinpricelistprocess
-    process-inf_hr_contract_concept_month
-    process-inf_hr_contract_organization_concept
-    process-sbpdepositfromcash
-    process-sb_payrollcreateinvoicebpartner
-    process-sb_createproductentriesinpricelist
-    process-rv_paymentcash
-    process-m_requisition_create_po_from_requisition
-    process-ad_migration-apply
-    process-ad_migration-import
     process-ad_role_accessupdate
+    process-inf_hr_contract_concept_category
+    process-sbpdepositfromcash
+    process-c_projectphase_generate
+    process-c_project_generatemo
+    process-r_generate-request
+    process-rv_paymentcash
+    process-createproductentriesinpricelistprocess
+    process-payrollprocessreport
+    process-c_opportunity-create-project
+    process-import_project
+    process-hr_process_payrollprocessreport
+    process-sb_createproductentriesinpricelist
+    process-c_payment-allocate
+    process-inf_hr_contract_concept_month
+    process-bankstatementmatch
+    process-c_projecttype-copy-from
+    process-inf_hr_contract_organization_concept
+    process-ad_tree-verify
+    process-a_aseet_split-process
+    process-a_asset_split_process
+    process-sbp_paymentgeneratefrominvoice
+    process-cleanupgardenworld
+    process-hr_payroll-movement-report
+    process-ad_migration-export
+    process-m_requisition_create_po_from_requisition
+    process-hr_movement-generate-invoices
+    process-hr_send-payroll-receipt-by-email
+    process-ad_synchronize
+    process-ad_migration-apply
+    process-ad_tab_createfields
+    process-ad_column-sync
+    process-ad_view_createcolumn
+    process-ad_migration-import
     process-generatedocsfrommenu

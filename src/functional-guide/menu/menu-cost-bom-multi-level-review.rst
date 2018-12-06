@@ -11,16 +11,9 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Cost BOM Multi Level Review
+* Cost BOM Multi Level Review
 
 Menu Type
 ---------
-\ **Process**\ 
+\ **Report**\ 
 
-
-.. seealso::
-    :ref:`functional-guide/process/process-pp_costbillofmaterial`

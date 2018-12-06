@@ -26,18 +26,18 @@ Fields
 Name                           Description                                                                          Displayed  Query Criteria  Order By  Read Only  Mandatory
 =============================  ===================================================================================  =========  ==============  ========  =========  =========
 Project Phase                  Phase of a Project                                                                   No         Yes             No        Yes        No       
+Manufacturing Order            Manufacturing Order                                                                  No         Yes             No        Yes        No       
 Project                        Financial Project                                                                    No         Yes             No        Yes        No       
+Campaign                       Marketing Campaign                                                                   No         Yes             No        Yes        No       
 Distribution Order                                                                                                  No         Yes             No        Yes        No       
 Delivery Via                   How the order will be delivered                                                      No         Yes             No        Yes        No       
 Shipper                        Method or manner of product delivery                                                 No         Yes             No        Yes        No       
-Manufacturing Order            Manufacturing Order                                                                  No         Yes             No        Yes        No       
 Order Reference                Transaction Reference Number (Sales Order, Purchase Order) of your Business Partner  No         Yes             No        Yes        No       
 Project Task                   Actual Project Task in a Phase                                                       No         Yes             No        Yes        No       
-Order                          Order                                                                                No         Yes             No        Yes        No       
 Activity                       Business Activity                                                                    No         Yes             No        Yes        No       
 Freight Cost Rule              Method for charging Freight                                                          No         Yes             No        Yes        No       
 Document Type                  Document type or rules                                                               No         Yes             No        Yes        No       
-Campaign                       Marketing Campaign                                                                   No         Yes             No        Yes        No       
+Order                          Order                                                                                No         Yes             No        Yes        No       
 Inbound & Outbound Order Line                                                                                       Yes        No              No        Yes        Yes      
 In & Out Bound Order                                                                                                Yes        Yes             No        Yes        No       
 Document No                    Document sequence number of the document                                             Yes        No              No        Yes        No       

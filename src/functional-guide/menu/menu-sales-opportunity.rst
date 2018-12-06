@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Sales Opportunity
+* Sales Opportunity
 
 Menu Type
 ---------

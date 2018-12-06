@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Cash Journal
+* Cash Journal
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Standard Costing Management
-
-  * Frozen/UnFrozen Cost
+* Frozen/UnFrozen Cost
 
 Menu Type
 ---------

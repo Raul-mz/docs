@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Auto Allocation
+* Auto Allocation
 
 Menu Type
 ---------

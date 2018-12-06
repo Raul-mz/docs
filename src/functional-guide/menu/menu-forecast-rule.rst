@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Forecast Management
-
-   * Forecast Rule
+* Forecast Rule
 
 Menu Type
 ---------

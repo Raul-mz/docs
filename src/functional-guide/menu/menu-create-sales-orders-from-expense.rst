@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Create Sales Orders from Expense
+* Create Sales Orders from Expense
 
 Menu Type
 ---------

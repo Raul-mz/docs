@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Automatic account reconciliation
+* Automatic account reconciliation
 
 Menu Type
 ---------

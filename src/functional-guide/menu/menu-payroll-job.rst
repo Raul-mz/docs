@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Payroll Job
+* Payroll Job
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Processing
-
-  * Build Depreciation Workfile
+* Build Depreciation Workfile
 
 Menu Type
 ---------

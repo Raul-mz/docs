@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Entity Type
+* Entity Type
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Context Info
+* Context Info
 
 Menu Type
 ---------

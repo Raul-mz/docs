@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Payroll Movement
+* Import Payroll Movement
 
 Menu Type
 ---------

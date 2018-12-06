@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * The Bank Statement Report
+* The Bank Statement Report
 
 Menu Type
 ---------

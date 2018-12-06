@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Invoices
-
-  * Invoice Payment Schedule
+* Invoice Payment Schedule
 
 Menu Type
 ---------

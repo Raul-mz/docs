@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales and Marketing
-
-  * Marketing Campaign
+* Marketing Campaign
 
 Menu Type
 ---------

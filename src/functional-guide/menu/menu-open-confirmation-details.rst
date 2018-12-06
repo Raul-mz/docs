@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Open Confirmation Details
+* Open Confirmation Details
 
 Menu Type
 ---------

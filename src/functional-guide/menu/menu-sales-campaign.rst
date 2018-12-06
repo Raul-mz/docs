@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Sales Campaign
+* Sales Campaign
 
 Menu Type
 ---------

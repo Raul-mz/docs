@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Payment Print/Export
+* Payment Print/Export
 
 Menu Type
 ---------

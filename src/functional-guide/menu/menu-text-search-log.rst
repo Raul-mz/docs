@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Knowledge Base
-
-   * Text Search Log
+* Text Search Log
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * UnReconciled Payments
+* UnReconciled Payments
 
 Menu Type
 ---------

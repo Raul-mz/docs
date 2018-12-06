@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Verify BOM Structure
+* Verify BOM Structure
 
 Menu Type
 ---------

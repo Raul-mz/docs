@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * MRP Supplies View
+* MRP Supplies View
 
 Menu Type
 ---------

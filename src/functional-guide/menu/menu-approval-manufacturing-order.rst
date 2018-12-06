@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Approval Manufacturing Order
+* Approval Manufacturing Order
 
 Menu Type
 ---------

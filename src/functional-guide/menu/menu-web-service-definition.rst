@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Web Service Definition
+* Web Service Definition
 
 Menu Type
 ---------

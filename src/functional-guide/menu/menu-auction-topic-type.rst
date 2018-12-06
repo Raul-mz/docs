@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Market Place
-
-   * Auction Topic Type
+* Auction Topic Type
 
 Menu Type
 ---------

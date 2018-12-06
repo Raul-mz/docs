@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Point of Sales
-
-   * Create Order based on another
+* Create Order based on another
 
 Menu Type
 ---------

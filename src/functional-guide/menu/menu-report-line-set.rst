@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Report Line Set
+* Report Line Set
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Lines not Issued
+* Project Lines not Issued
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Activity Control
-
-   * Shop Floor Transaction Details
+* Shop Floor Transaction Details
 
 Menu Type
 ---------

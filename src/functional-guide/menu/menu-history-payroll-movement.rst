@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * History Payroll Movement
+* History Payroll Movement
 
 Menu Type
 ---------

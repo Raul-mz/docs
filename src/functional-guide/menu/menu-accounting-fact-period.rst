@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Fact Period
+* Accounting Fact Period
 
 Menu Type
 ---------

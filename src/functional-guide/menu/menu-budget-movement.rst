@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Budget Management
-
-  * Budget Movement
+* Budget Movement
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Management Maintenance
-
-   * Spare parts
+* Spare parts
 
 Menu Type
 ---------

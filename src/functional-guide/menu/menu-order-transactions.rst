@@ -5,17 +5,13 @@
 Order Transactions
 ==================
 
-Sales Order Transaction Report
+Order Transactions
 
 Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Order Transactions
+* Order Transactions
 
 Menu Type
 ---------

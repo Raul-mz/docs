@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * System Translation Check
+* System Translation Check
 
 Menu Type
 ---------

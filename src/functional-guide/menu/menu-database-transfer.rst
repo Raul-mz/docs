@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Database transfer
+* Database transfer
 
 Menu Type
 ---------

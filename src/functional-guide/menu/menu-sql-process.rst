@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * SQL Process
+* SQL Process
 
 Menu Type
 ---------

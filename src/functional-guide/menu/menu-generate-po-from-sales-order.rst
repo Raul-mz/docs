@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Generate PO from Sales Order
+* Generate PO from Sales Order
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Country Region and City
+* Country Region and City
 
 Menu Type
 ---------

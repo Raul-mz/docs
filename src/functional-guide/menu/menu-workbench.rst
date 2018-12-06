@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Workbench
+* Workbench
 
 Menu Type
 ---------

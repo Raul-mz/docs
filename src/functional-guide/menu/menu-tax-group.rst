@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Global Tax Management
-
-   * Tax Group
+* Tax Group
 
 Menu Type
 ---------

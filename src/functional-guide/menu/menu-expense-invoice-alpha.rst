@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Expense Invoice (Alpha)
+* Expense Invoice (Alpha)
 
 Menu Type
 ---------

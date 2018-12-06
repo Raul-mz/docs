@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Time Type
+* Time Type
 
 Menu Type
 ---------

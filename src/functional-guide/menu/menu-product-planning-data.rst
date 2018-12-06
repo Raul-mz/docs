@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Product Planning
-
-   * Product Planning Data
+* Product Planning Data
 
 Menu Type
 ---------

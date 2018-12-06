@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Vehicle
+* Vehicle
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Replenish Report
+* Replenish Report
 
 Menu Type
 ---------

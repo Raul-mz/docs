@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Bill of Material & Formulas
-
-   * Mutiple Components Change
+* Mutiple Components Change
 
 Menu Type
 ---------

@@ -298,15 +298,22 @@ Project
 \ **Help**\ 
  \ *A Project allows you to track and control internal or external activities.*\ 
 
+User List 3
+-----------
+\ **Description**\ 
+ \ *User defined list element #3*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
+
 Project Phase
 -------------
 \ **Description**\ 
  \ *Phase of a Project*\ 
 
-User List 3
+User List 4
 -----------
 \ **Description**\ 
- \ *User defined list element #3*\ 
+ \ *User defined list element #4*\ 
 \ **Help**\ 
  \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
@@ -316,13 +323,6 @@ Project Task
  \ *Actual Project Task in a Phase*\ 
 \ **Help**\ 
  \ *A Project Task in a Project Phase represents the actual work.*\ 
-
-User List 4
------------
-\ **Description**\ 
- \ *User defined list element #4*\ 
-\ **Help**\ 
- \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
 Campaign
 --------
@@ -376,19 +376,19 @@ User List 1
 \ **Help**\ 
  \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
-User List 2
------------
-\ **Description**\ 
- \ *User defined list element #2*\ 
-\ **Help**\ 
- \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
-
 Approved
 --------
 \ **Description**\ 
  \ *Indicates if this document requires approval*\ 
 \ **Help**\ 
  \ *The Approved checkbox indicates if this document requires approval before it can be processed.*\ 
+
+User List 2
+-----------
+\ **Description**\ 
+ \ *User defined list element #2*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
 Printed
 -------

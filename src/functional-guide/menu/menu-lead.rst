@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Lead
+* Lead
 
 Menu Type
 ---------

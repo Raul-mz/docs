@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Action Notice
+* Payroll Action Notice
 
 Menu Type
 ---------

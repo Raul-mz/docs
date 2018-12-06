@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Quarterly Invoice Customer by Product
+* Quarterly Invoice Customer by Product
 
 Menu Type
 ---------

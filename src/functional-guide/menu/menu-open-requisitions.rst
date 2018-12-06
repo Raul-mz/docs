@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Open Requisitions
+* Open Requisitions
 
 Menu Type
 ---------

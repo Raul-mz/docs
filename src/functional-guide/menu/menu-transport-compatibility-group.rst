@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport Compatibility Group
+* Transport Compatibility Group
 
 Menu Type
 ---------

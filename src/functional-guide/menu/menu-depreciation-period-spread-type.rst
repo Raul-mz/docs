@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Setup
-
-  * Depreciation Period Spread Type
+* Depreciation Period Spread Type
 
 Menu Type
 ---------

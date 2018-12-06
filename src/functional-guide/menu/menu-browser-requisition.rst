@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Browser Requisition
+* Browser Requisition
 
 Menu Type
 ---------

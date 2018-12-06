@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Asset Parent Report
+* Asset Parent Report
 
 Menu Type
 ---------

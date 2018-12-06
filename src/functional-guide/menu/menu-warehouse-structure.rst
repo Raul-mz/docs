@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Warehouse Management Setup
-
-  * Warehouse Structure
+* Warehouse Structure
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Payment Allocation
+* Payment Allocation
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import File Loader
+* Import File Loader
 
 Menu Type
 ---------

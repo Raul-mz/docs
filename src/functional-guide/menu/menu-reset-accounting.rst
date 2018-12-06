@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Reset Accounting
+* Reset Accounting
 
 Menu Type
 ---------

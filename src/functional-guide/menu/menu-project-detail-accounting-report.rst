@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Detail Accounting Report
+* Project Detail Accounting Report
 
 Menu Type
 ---------

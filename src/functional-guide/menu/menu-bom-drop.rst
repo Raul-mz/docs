@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * BOM Drop
+* BOM Drop
 
 Menu Type
 ---------

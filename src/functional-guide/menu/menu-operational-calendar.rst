@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Forecast Management
-
-   * Operational Calendar
+* Operational Calendar
 
 Menu Type
 ---------

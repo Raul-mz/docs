@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Translation Import/Export
+* Translation Import/Export
 
 Menu Type
 ---------

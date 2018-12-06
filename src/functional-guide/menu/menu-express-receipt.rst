@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Inbound Operations
-
-  * Express Receipt
+* Express Receipt
 
 Menu Type
 ---------

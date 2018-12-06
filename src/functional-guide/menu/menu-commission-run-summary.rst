@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales and Marketing
-
-  * Commission Run (Summary)
+* Commission Run (Summary)
 
 Menu Type
 ---------

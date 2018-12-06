@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project Task Browser
+* Project Task Browser
 
 Menu Type
 ---------

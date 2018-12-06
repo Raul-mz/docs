@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * DRP
-
-   * Distribution Resource Planning Setup
+* Distribution Resource Planning Setup
 
 Menu Type
 ---------

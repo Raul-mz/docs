@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Product Attributes
-
-  * Product Attribute Grid
+* Product Attribute Grid
 
 Menu Type
 ---------

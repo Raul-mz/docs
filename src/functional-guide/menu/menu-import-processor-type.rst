@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Replication Data
-
-   * Import Processor Type
+* Import Processor Type
 
 Menu Type
 ---------

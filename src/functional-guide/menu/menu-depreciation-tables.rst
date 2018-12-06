@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Depreciation Setup
-
-  * Depreciation Tables
+* Depreciation Tables
 
 Menu Type
 ---------

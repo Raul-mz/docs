@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Requisition-to-Invoice
-
- * Invoice (Vendor)
+* Invoice (Vendor)
 
 Menu Type
 ---------

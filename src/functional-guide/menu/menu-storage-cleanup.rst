@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Storage Cleanup
+* Storage Cleanup
 
 Menu Type
 ---------

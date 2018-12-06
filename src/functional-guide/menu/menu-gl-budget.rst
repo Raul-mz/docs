@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Budget Management
-
-  * GL Budget
+* GL Budget
 
 Menu Type
 ---------

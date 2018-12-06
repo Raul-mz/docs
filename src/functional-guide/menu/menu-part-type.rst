@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Part Type
+* Part Type
 
 Menu Type
 ---------

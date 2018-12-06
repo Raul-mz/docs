@@ -28,9 +28,9 @@ Fields
 =====================  ==========================================================================  =========  ==============  ========  =========  =========
 Name                   Description                                                                 Displayed  Query Criteria  Order By  Read Only  Mandatory
 =====================  ==========================================================================  =========  ==============  ========  =========  =========
-Processed              The document has been processed                                             No         Yes             No        Yes        No       
-Table                  Database Table information                                                  No         Yes             No        Yes        No       
 Confidentiality        Type of Confidentiality                                                     No         Yes             No        Yes        No       
+Table                  Database Table information                                                  No         Yes             No        Yes        No       
+Processed              The document has been processed                                             No         Yes             No        Yes        No       
 Self-Service           This is a Self-Service entry or this entry can be changed via Self-Service  No         Yes             No        Yes        No       
 Related Request        Related Request (Master Issue, ..)                                          No         Yes             No        No         No       
 Request                Request from a Business Partner or Prospect                                 Yes        No              No        Yes        No       

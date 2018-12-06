@@ -11,15 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Employee Setup
-
-   * Employee Information
-
-    * Employee Detail (Salary Change)
+* Employee Detail (Salary Change)
 
 Menu Type
 ---------

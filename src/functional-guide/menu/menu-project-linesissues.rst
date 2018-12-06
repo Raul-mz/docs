@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project (Lines/Issues)
+* Project (Lines/Issues)
 
 Menu Type
 ---------

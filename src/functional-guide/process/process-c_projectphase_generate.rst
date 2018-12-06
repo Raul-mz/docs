@@ -1,11 +1,11 @@
 
 .. _functional-guide/process/process-c_projectphase_generate:
 
-==============
-Generate Order
-==============
+====================
+Generate Sales Order
+====================
 
-Generate Order from Project Phase
+Generate Sales Order from Project.
 
 Help
 ====

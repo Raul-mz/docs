@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Reference
+* Material Reference
 
 Menu Type
 ---------

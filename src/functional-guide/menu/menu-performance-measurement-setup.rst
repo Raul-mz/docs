@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Performance Measurement
-
-  * Performance Measurement Setup
+* Performance Measurement Setup
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Unit of Measure
+* Unit of Measure
 
 Menu Type
 ---------

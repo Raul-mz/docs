@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Physical Inventory
+* Physical Inventory
 
 Menu Type
 ---------

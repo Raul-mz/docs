@@ -11,15 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Employee Setup
-
-   * Employee Information
-
-    * Employee Detail (Dependent)
+* Employee Detail (Dependent)
 
 Menu Type
 ---------

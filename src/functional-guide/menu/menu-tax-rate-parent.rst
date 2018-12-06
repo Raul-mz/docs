@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Global Tax Management
-
-   * Tax Rate Parent
+* Tax Rate Parent
 
 Menu Type
 ---------

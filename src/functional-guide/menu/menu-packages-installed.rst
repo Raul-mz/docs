@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Application Packaging
-
-  * Packages Installed
+* Packages Installed
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * System Rules
-
-   * Tree Maintenance
+* Tree Maintenance
 
 Menu Type
 ---------

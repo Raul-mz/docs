@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Utility
-
-   * Unprocessed Documents (All)
+* Unprocessed Documents (All)
 
 Menu Type
 ---------

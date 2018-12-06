@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Invoice Inquiry
-
-  * Invoice Detail & Margin
+* Invoice Detail & Margin
 
 Menu Type
 ---------

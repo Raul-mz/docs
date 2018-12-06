@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Human Resource
-
-  * Payroll Department
+* Payroll Department
 
 Menu Type
 ---------

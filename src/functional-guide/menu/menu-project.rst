@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project
+* Project
 
 Menu Type
 ---------

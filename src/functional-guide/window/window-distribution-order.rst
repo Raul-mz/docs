@@ -265,17 +265,17 @@ User List 1
 \ **Help**\ 
  \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 
-User List 3
------------
-\ **Description**\ 
- \ *User defined list element #3*\ 
-\ **Help**\ 
- \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
-
 User List 2
 -----------
 \ **Description**\ 
  \ *User defined list element #2*\ 
+\ **Help**\ 
+ \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
+
+User List 3
+-----------
+\ **Description**\ 
+ \ *User defined list element #3*\ 
 \ **Help**\ 
  \ *The user defined element displays the optional elements that have been defined for this account combination.*\ 
 

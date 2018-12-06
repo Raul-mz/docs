@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Custom Attribute
+* Custom Attribute
 
 Menu Type
 ---------

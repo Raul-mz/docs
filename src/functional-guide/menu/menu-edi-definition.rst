@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * EDI
-
-   * EDI Definition
+* EDI Definition
 
 Menu Type
 ---------

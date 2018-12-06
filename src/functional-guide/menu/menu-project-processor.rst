@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * Project Processor
+* Project Processor
 
 Menu Type
 ---------

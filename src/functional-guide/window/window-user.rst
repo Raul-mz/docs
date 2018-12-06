@@ -334,6 +334,13 @@ Role
 \ **Help**\ 
  \ *The Role determines security and access a user who has this Role will have in the System.*\ 
 
+Default
+-------
+\ **Description**\ 
+ \ *Default value*\ 
+\ **Help**\ 
+ \ *The Default Checkbox indicates if this record will be used as a default value.*\ 
+
 Active
 ------
 \ **Description**\ 

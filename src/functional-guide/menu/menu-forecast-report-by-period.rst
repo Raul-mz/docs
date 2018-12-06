@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * Forecast Management
-
-   * Forecast Report by Period
+* Forecast Report by Period
 
 Menu Type
 ---------

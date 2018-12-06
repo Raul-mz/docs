@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Organization Rules
-
-  * Organization Type
+* Organization Type
 
 Menu Type
 ---------

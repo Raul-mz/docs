@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Business Partner
+* Import Business Partner
 
 Menu Type
 ---------

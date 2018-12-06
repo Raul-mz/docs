@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport License Browser
+* Transport License Browser
 
 Menu Type
 ---------

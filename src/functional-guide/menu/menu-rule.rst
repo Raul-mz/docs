@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Rule
+* Rule
 
 Menu Type
 ---------

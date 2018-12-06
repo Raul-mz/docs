@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Parts and BOMs
+* Parts and BOMs
 
 Menu Type
 ---------

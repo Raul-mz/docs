@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Project Management
-
- * Project POs not Issued
+* Project POs not Issued
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Outbound Operations
-
-  * Release Outbound Order to Pick
+* Release Outbound Order to Pick
 
 Menu Type
 ---------

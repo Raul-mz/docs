@@ -81,6 +81,13 @@ Type | Area
 \ **Help**\ 
  \ *The Tree Type / Area field determines the type of tree this is.  For example, you may define one tree for your Products and another tree for your Business Partners.*\ 
 
+Table
+-----
+\ **Description**\ 
+ \ *Database Table information*\ 
+\ **Help**\ 
+ \ *The Database Table provides the information of the table definition*\ 
+
 All Nodes
 ---------
 \ **Description**\ 

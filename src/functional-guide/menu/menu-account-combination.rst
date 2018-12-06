@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Account Combination
+* Account Combination
 
 Menu Type
 ---------

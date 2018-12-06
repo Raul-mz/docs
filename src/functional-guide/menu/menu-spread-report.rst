@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Spread Report
+* Spread Report
 
 Menu Type
 ---------

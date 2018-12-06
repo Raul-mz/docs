@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Discount Schema
+* Discount Schema
 
 Menu Type
 ---------

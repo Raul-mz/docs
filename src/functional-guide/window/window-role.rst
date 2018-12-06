@@ -275,11 +275,11 @@ Allow Info CRP
 Allow Info MRP
 --------------
 
-Allow XLS View
---------------
-
 Allow HTML View
 ---------------
+
+Allow XLS View
+--------------
 
 Org Access
 ----------
@@ -366,6 +366,13 @@ Role
  \ *Responsibility Role*\ 
 \ **Help**\ 
  \ *The Role determines security and access a user who has this Role will have in the System.*\ 
+
+Default
+-------
+\ **Description**\ 
+ \ *Default value*\ 
+\ **Help**\ 
+ \ *The Default Checkbox indicates if this record will be used as a default value.*\ 
 
 User/Contact
 ------------

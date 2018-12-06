@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * CRP
-
-   * Calculate Capacity Plan
+* Calculate Capacity Plan
 
 Menu Type
 ---------

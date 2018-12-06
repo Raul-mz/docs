@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Web Service Security
+* Web Service Security
 
 Menu Type
 ---------

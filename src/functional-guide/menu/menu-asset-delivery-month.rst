@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Customer Service
-
-  * Asset Delivery Month
+* Asset Delivery Month
 
 Menu Type
 ---------

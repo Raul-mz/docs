@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Freight Order
+* Freight Order
 
 Menu Type
 ---------

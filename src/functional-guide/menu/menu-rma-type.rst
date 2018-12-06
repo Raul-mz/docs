@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Returns
-
- * RMA Type
+* RMA Type
 
 Menu Type
 ---------

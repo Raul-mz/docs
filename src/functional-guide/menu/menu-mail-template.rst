@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Mail Template
+* Mail Template
 
 Menu Type
 ---------

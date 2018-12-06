@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Sales Management
-
- * Contact
+* Contact
 
 Menu Type
 ---------

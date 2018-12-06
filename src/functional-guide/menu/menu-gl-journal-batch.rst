@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * GL Journal Batch
+* GL Journal Batch
 
 Menu Type
 ---------

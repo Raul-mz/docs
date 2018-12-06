@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Transactions (indirect use)
+* Material Transactions (indirect use)
 
 Menu Type
 ---------

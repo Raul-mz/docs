@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Expenses (not reimbursed)
+* Expenses (not reimbursed)
 
 Menu Type
 ---------

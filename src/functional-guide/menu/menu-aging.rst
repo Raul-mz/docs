@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Aging
+* Aging
 
 Menu Type
 ---------

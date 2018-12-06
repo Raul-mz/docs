@@ -51,12 +51,12 @@ Account Date
 .. note::
     The Range checkbox indicates that this parameter is a range of values.
 
-Organization
+Account Type
 ------------
 \ **Description**\ 
- \ *Organizational entity within client*\ 
+ \ *Indicates the type of account*\ 
 \ **Help**\ 
- \ *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*\ 
+ \ *Valid account types are A - Asset, E - Expense, L - Liability, O- Owner's Equity, R -Revenue and M- Memo.  The account type is used to determine what taxes, if any are applicable, validating payables and receivables for business partners.  Note:  Memo account amounts are ignored when checking for balancing*\ 
 
 Account
 -------
@@ -64,6 +64,13 @@ Account
  \ *Account used*\ 
 \ **Help**\ 
  \ *The (natural) account used*\ 
+
+Organization
+------------
+\ **Description**\ 
+ \ *Organizational entity within client*\ 
+\ **Help**\ 
+ \ *An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.*\ 
 
 Business Partner
 ----------------

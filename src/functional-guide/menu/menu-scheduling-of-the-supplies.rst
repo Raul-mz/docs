@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * Scheduling of the Supplies
+* Scheduling of the Supplies
 
 Menu Type
 ---------

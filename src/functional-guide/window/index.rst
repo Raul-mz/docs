@@ -452,8 +452,13 @@ Windows
     window-project-member-type
     window-payroll-process-report
     window-project-processor
+    window-project-info
     window-fixed-asset-split
     window-context-info
     window-sales-order
     window-purchase-order
     window-invoice-customer
+    window-token-definition
+    window-token-for-access
+    window-field-definition
+    window-commission-type

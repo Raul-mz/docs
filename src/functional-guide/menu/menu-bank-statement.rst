@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Bank Statement
+* Bank Statement
 
 Menu Type
 ---------

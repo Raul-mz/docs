@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Driver Browser
+* Driver Browser
 
 Menu Type
 ---------

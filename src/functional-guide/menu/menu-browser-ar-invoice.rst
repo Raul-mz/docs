@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Invoices
-
-  * Browser AR Invoice
+* Browser AR Invoice
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Knowledge Base
-
-   * Text Index Stop
+* Text Index Stop
 
 Menu Type
 ---------

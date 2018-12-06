@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Distribution Management
-
- * Fleet Management
-
-  * Transport License Type
+* Transport License Type
 
 Menu Type
 ---------

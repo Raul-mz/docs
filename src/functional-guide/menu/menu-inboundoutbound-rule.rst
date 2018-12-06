@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Warehouse Management Setup
-
-  * Inbound/Outbound Rule
+* Inbound/Outbound Rule
 
 Menu Type
 ---------

@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Production Light
-
-  * Production Order Batch
+* Production Order Batch
 
 Menu Type
 ---------

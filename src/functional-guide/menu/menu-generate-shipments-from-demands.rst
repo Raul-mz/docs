@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Outbound Operations
-
-  * Generate Shipments from Demands
+* Generate Shipments from Demands
 
 Menu Type
 ---------

@@ -5,21 +5,18 @@
 Payroll Process Report
 ======================
 
-Show Payroll Movements with many Templates
+Payroll Process Report Config
 
 Menu Path
 =========
 
 
-* Human Resource & Payroll
-
- * Payroll
-
-  * Payroll Reporting
-
-   * Payroll Process Report
+* Payroll Process Report
 
 Menu Type
 ---------
-\ **Report**\ 
+\ **Window**\ 
 
+
+.. seealso::
+    :ref:`functional-guide/window/window-payroll-process-report`

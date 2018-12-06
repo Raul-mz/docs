@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Material Management Rules
-
-  * Product Group
+* Product Group
 
 Menu Type
 ---------

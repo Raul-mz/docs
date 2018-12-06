@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Create AP Expense Invoices
+* Create AP Expense Invoices
 
 Menu Type
 ---------

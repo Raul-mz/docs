@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Statement of Accounts
+* Statement of Accounts
 
 Menu Type
 ---------

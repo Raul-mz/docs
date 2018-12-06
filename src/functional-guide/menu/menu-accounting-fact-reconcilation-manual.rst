@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Fact Reconcilation (manual)
+* Accounting Fact Reconcilation (manual)
 
 Menu Type
 ---------

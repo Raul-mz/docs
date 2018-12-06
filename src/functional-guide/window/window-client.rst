@@ -326,6 +326,13 @@ Activity Tree
 \ **Help**\ 
  \ *Trees are used for (finanial) reporting*\ 
 
+Restore Password Mail Text
+--------------------------
+\ **Description**\ 
+ \ *Used for Restore Password Mail Text*\ 
+\ **Help**\ 
+ \ *You can define your custom mail text for restore password*\ 
+
 Logo
 ----
 

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Data Import
-
-   * Import Product ASI
+* Import Product ASI
 
 Menu Type
 ---------

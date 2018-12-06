@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales Orders
-
-  * Web POS
-
-   * Update Role Menu
+* Update Role Menu
 
 Menu Type
 ---------

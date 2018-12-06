@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Cache Reset
+* Cache Reset
 
 Menu Type
 ---------

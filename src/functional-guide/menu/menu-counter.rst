@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Web
-
-  * Counter
+* Counter
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Reapply Customizations
+* Reapply Customizations
 
 Menu Type
 ---------

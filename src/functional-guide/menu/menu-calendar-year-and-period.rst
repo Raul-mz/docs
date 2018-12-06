@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Calendar Year and Period
+* Calendar Year and Period
 
 Menu Type
 ---------

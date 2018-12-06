@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Service
-
-  * Expenses (to be invoiced)
+* Expenses (to be invoiced)
 
 Menu Type
 ---------

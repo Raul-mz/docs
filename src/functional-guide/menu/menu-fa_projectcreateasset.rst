@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Asset Transactions 
-
-  * FA_ProjectCreateAsset
+* FA_ProjectCreateAsset
 
 Menu Type
 ---------

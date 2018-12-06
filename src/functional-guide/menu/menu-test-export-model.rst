@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Replication Data
-
-   * Test Export Model
+* Test Export Model
 
 Menu Type
 ---------

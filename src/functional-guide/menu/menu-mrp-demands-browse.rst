@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Planning Management
-
-  * MRP
-
-   * MRP Demands Browse
+* MRP Demands Browse
 
 Menu Type
 ---------

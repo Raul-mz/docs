@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Knowledge Base
-
-   * Rebuild Index
+* Rebuild Index
 
 Menu Type
 ---------

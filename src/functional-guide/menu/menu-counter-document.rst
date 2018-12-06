@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Counter Document
+* Counter Document
 
 Menu Type
 ---------

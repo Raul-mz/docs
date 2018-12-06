@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Customer Service
-
-  * Customer Assets
+* Customer Assets
 
 Menu Type
 ---------

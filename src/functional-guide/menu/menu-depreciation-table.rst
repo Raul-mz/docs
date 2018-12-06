@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Depreciation Table
+* Depreciation Table
 
 Menu Type
 ---------

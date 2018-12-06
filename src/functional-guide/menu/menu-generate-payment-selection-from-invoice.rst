@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Generate Payment Selection (From Invoice)
+* Generate Payment Selection (From Invoice)
 
 Menu Type
 ---------

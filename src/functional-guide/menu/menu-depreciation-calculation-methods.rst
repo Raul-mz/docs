@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Assets
-
- * Reporting
-
-  * Depreciation Calculation Methods
+* Depreciation Calculation Methods
 
 Menu Type
 ---------

@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Currency Type
+* Currency Type
 
 Menu Type
 ---------

@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Field Group
+* Field Group
 
 Menu Type
 ---------

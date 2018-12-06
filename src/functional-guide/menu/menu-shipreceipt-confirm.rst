@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Ship/Receipt Confirm
+* Ship/Receipt Confirm
 
 Menu Type
 ---------

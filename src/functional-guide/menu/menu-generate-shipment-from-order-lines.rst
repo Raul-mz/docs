@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Shipments
-
-  * Generate Shipment from Order Lines
+* Generate Shipment from Order Lines
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Activity Control
-
-   * Activity Control Report
+* Activity Control Report
 
 Menu Type
 ---------

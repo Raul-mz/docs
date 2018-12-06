@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Activity Control
-
-   * Activities Scheduling
+* Activities Scheduling
 
 Menu Type
 ---------

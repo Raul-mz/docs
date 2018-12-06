@@ -485,9 +485,6 @@ Process Payment
 Payment Related
 ---------------
 
-IsVoidRelatedDocument
----------------------
-
 Self-Service
 ------------
 \ **Description**\ 

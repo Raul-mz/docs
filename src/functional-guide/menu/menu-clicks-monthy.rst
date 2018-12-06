@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Partner Relations
-
- * Web
-
-  * Clicks Monthy
+* Clicks Monthy
 
 Menu Type
 ---------

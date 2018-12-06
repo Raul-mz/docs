@@ -10,9 +10,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Model Validator
+* Model Validator
 
 Menu Type
 ---------

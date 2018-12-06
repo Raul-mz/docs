@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Warehouse Management
-
- * Outbound Operations
-
-  * Outbound Order delivery schedule
+* Outbound Order delivery schedule
 
 Menu Type
 ---------

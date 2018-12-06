@@ -11,9 +11,7 @@ Menu Path
 =========
 
 
-* Open Items
-
- * Bank Transfer
+* Bank Transfer
 
 Menu Type
 ---------

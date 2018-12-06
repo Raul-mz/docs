@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Server
-
-   * EMail Configuration
+* EMail Configuration
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Resource Manufacturing
-
-   * Manufacturing Resource
+* Manufacturing Resource
 
 Menu Type
 ---------

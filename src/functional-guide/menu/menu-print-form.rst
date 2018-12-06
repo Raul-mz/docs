@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Printing
-
-   * Print Form
+* Print Form
 
 Menu Type
 ---------

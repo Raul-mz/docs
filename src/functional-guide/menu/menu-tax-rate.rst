@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Tax Rate
+* Tax Rate
 
 Menu Type
 ---------

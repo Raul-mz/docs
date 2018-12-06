@@ -859,6 +859,9 @@ Field Only
 \ **Help**\ 
  \ *The Field Only checkbox indicates that the column will display without a label.*\ 
 
+Field Definition
+----------------
+
 Reference Overwrite
 -------------------
 \ **Description**\ 
@@ -886,6 +889,14 @@ Mandatory Overwrite
  \ *Overwrite Field Mandatory status*\ 
 \ **Help**\ 
  \ *The field must have a value for the record to be saved to the database.*\ 
+
+Image
+-----
+\ **Description**\ 
+ \ *Image or Icon*\ 
+\ **Help**\ 
+ \ *Images and Icon can be used to display supported graphic formats (gif, jpg, png).
+You can either load the image (in the database) or point to a graphic via a URI (i.e. it can point to a resource, http address)*\ 
 
 Quick Entry
 -----------

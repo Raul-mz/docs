@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Quote-to-Invoice
-
- * Sales and Marketing
-
-  * Marketing Channel
+* Marketing Channel
 
 Menu Type
 ---------

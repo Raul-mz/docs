@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Financial Reporting
-
-  * Report Cube
+* Report Cube
 
 Menu Type
 ---------

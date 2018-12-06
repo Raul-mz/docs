@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Engineering Management
-
-  * Change Notice
+* Change Notice
 
 Menu Type
 ---------

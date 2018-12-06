@@ -10,11 +10,7 @@ Menu Path
 =========
 
 
-* Performance Analysis
-
- * Accounting Rules
-
-  * Update Sequence No
+* Update Sequence No
 
 Menu Type
 ---------

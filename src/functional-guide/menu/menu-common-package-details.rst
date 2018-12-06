@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Application Dictionary
-
- * Application Packaging
-
-  * Common Package Details
+* Common Package Details
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Printing
-
-   * Label Printer
+* Label Printer
 
 Menu Type
 ---------

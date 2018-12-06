@@ -58,6 +58,13 @@ There are two reasons for de-activating and not deleting records:
 (1) The system requires the record for audit purposes.
 (2) The record is referenced by other records. E.g., you cannot delete a Business Partner, if there are invoices for this partner record existing. You de-activate the Business Partner and prevent that this record is used for future entries.*\ 
 
+Data Access Level
+-----------------
+\ **Description**\ 
+ \ *Access Level required*\ 
+\ **Help**\ 
+ \ *Indicates the access level required for this record or process.*\ 
+
 Column No
 ---------
 \ **Description**\ 
@@ -82,15 +89,15 @@ Description
 HTML
 ----
 
+Smart Browse
+------------
+
 Window
 ------
 \ **Description**\ 
  \ *Data entry or display window*\ 
 \ **Help**\ 
  \ *The Window field identifies a unique Window in the system.*\ 
-
-Smart Browse
-------------
 
 IsEventRequired
 ---------------

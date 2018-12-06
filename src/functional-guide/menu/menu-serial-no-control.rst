@@ -11,11 +11,7 @@ Menu Path
 =========
 
 
-* Material Management
-
- * Product Attributes
-
-  * Serial No Control
+* Serial No Control
 
 Menu Type
 ---------

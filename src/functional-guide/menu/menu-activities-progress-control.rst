@@ -10,13 +10,7 @@ Menu Path
 =========
 
 
-* Manufacturing Management
-
- * Production Management
-
-  * Activity Control
-
-   * Activities Progress Control
+* Activities Progress Control
 
 Menu Type
 ---------

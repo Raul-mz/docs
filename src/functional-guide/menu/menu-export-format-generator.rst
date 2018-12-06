@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * Data
-
-  * Replication Data
-
-   * Export Format Generator
+* Export Format Generator
 
 Menu Type
 ---------

@@ -11,13 +11,7 @@ Menu Path
 =========
 
 
-* System Admin
-
- * General Rules
-
-  * Security
-
-   * Convert passwords to hashes
+* Convert passwords to hashes
 
 Menu Type
 ---------
